@@ -73,7 +73,7 @@
 
   	<!-- day Thurs -->
   	<td valign ="top">
-  	<a href = "Exercise_6.md">Begin working on Exercise 6 </a>
+  	<a href = "Exercise_6.md">Begin working on Exercise 6. Push your Progress to gitHub. Flag issues, help and quesitons. </a>
 		
   	</td>
   	

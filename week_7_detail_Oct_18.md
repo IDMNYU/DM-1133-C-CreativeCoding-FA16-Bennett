@@ -22,13 +22,14 @@
 	<td valign="top">class</td>
 	<!-- day Tues -->
 	<td valign="top" width="48%">
-	
+	OOP: Inheritance + Polymorphism <br>
+	Show + Tell
 	</td>
 	
 
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-	
+	In-class Challenge
 		
 		
 	</td>
@@ -38,7 +39,7 @@
   <td valign="top">read</td>
   	<!-- day Tues -->
   	<td valign="top"> 
-		
+	Reivew OOP Reading Assignments	
 		
 			
 
@@ -46,7 +47,7 @@
 
   	<!-- day Thurs -->
   	<td valign="top"> 
-  
+  	Review OOP Reading Assignments
 		
 	
   	</td>
@@ -59,12 +60,12 @@
 
 	<!-- day Tues -->
  	<td valign="top"> 
- 		
+ 		<a href = "Exercise_6.md">Exercise 6. Push your Progress to gitHub. Flag issues, help and quesitons. </a>
  	</td>
 
   	<!-- day Thurs -->
   	<td valign="top">
-		
+		<a href = "Exercise_6.md">Exercise 6. Push your Progress to gitHub. Flag issues, help and quesitons. </a>
   	</td>
   	
 </tr>

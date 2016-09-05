@@ -32,7 +32,7 @@
 	</td>
 
 	<td valign="top"><a href="week_2_detail_sept_13.md">Sep 15<br><strong>Control Statements<br>Logical Operators</strong></a> <br>
-	<strong>EXERCISE 2 DUE</strong>
+	<strong>EXERCISE 2 DUE</strong> <br>
 	<strong>Show + Tell --->  </strong>
 	</td>
 
@@ -56,6 +56,7 @@
 		<li> Functions + passing parameters </li>
 		<li> Intro to P5.js </li>
 		</strong>
+		</a>
 	</td>
 
 </tr>
@@ -79,6 +80,7 @@
 		<li> Control  </li>
 		<li>Show + Tell --->  </li>
 		</strong>
+		</a>
 	</td>
 
 </tr>
@@ -87,7 +89,7 @@
 <tr>
 <td> 5 </td>
 
-	<td valign="top"><a href="week_5_detail_oct_4.md">Oct 4<br><strong>
+	<td valign="top"><a href="week_5_detail_Oct_4.md">Oct 4<br><strong>
 		<li> In-class challenge</li>
 		<li>Show + Tell --->  </li>
 		<li>matrix transformations </li>
@@ -136,18 +138,179 @@
 <tr>
 <td> 7 </td>
 
-	<td valign="top"><a href="week_7_detail_oct_18.md">Oct 18<br><strong>
-		<li>OOP in Processing </li>
-				<li>OOP in P5.js </li>
+	<td valign="top"><a href="week_7_detail_oct_18.md">Oct 18<br><strong>OOP: Inheritance + Polymorphism <br>
+	Show + Tell --->
+		
 				</strong>
 				</a>
 		</td>
 
 
-		<td> valign = "top"> <a href="week_7_detail_oct_18.md">Oct 20<br><strong>
+		<td valign = "top"> <a href="week_7_detail_oct_18.md">Oct 20<br><strong>In-class Challenge
 		</strong>
 		</a>
 		</td>
-</tr
+</tr>
+
+
+
+<tr>
+<td> 8 </td>
+
+	<td valign="top"><a href="week_8_detail_oct_25.md">Oct 25<br><strong>	<a href = "Exercise_6.mp"> Exercise 6 Due </a> <br>
+		<li> Working with Text</li>
+		<li>Show + Tell --->  </li>
+		</strong>
+		</a>
+	</td>
+
+
+	
+	<td valign="top"><a href="week_8_detail_oct_25.md">Oct 27<br><strong>
+		<li>Working with Images </li>
+		<li></li>
+		</strong>
+	</td>
+	</a>
+</tr>
+
+
+
+<tr>
+<td> 9 </td>
+
+	<td valign="top"><a href="week_9_detail_Nov_1.md">Nov 1<br><strong>	<a href = "Exercise_7.mp"> Exercise 7 Due </a> <br>
+		<li> In-class Challenge</li>
+		<li>Pixel Manipulations  </li>
+		<li>Show + Tell --->  </li>
+		</strong>
+		</a>
+	</td>
+
+
+	
+	<td valign="top"><a href="week_9_detail_Nov_1.md">Nov 3<br><strong>
+		<li>Pixel Manipulations  </li>
+		<li> In-class Challenge</li>
+		<li></li>
+		</strong>
+	</td>
+	</a>
+</tr>
+
+
+
+<tr>
+<td> 10 </td>
+
+	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 8<br><strong>	<a href = "Exercise_8.mp"> Exercise 8 Due </a> <br>
+		<li> String Manipulations</li>
+		<li>Show + Tell --->  </li>
+		</strong>
+		</a>
+	</td>
+
+
+	
+	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 10<br><strong>
+		<li>API's  </li>
+		
+		</strong>
+	</td>
+	</a>
+</tr>
+
+
+
+<tr>
+<td> 11 </td>
+
+	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 15<br><strong>	<a href = "Exercise_8.mp"> Exercise 8 Due </a> <br>
+		<li> Round Table for Final Project </li>
+		</strong>
+		</a>
+	</td>
+
+
+	
+	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 17<br><strong>
+		<li> </li>
+		
+		</strong>
+	</td>
+	</a>
+</tr>
+
+
+<tr>
+<td> 12 </td>
+
+	<td valign="top">Nov 22<br>
+	<strong>	
+		<li> Round Table for Final Project </li>
+		</strong>
+		
+	</td>
+
+
+	<td>
+	<strong> Thanksgiving Break! Enjoy the Holiday! </strong>
+	</td>
+</tr>
+
+
+
+<tr>	
+<td> 12 </td>
+	<td valign="top">Nov 29<br><strong>
+		<li> </li>
+		
+		</strong>
+	</td>
+
+
+	<td valign="top">Dec 1<br><strong>
+		<li> </li>
+		
+		</strong>
+	</td>
+	
+</tr>
+
+
+<tr>	
+<td> 13 </td>
+	<td valign="top">Dec 6<br><strong>
+		<li> </li>
+		
+		</strong>
+	</td>
+
+
+	<td valign="top">Dec 8<br><strong>
+		<li> </li>
+		
+		</strong>
+	</td>
+	
+</tr>
+
+
+<tr>	
+<td> 13 </td>
+	<td valign="top">Dec 13<br><strong>
+		<li> </li>
+		
+		</strong>
+	</td>
+
+
+	<td valign="top">Dec 15<br><strong>
+		<li> </li>
+		
+		</strong>
+	</td>
+	
+</tr>
 
 </table>

@@ -14,66 +14,22 @@
 
 
 <tr>
-<td >1 </td>
-<td><a href="week_1_detail_sep_6.md">Sep 6<br><strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
-	 </td>
-
-	 <td><a href="week_1_detail_sep_6.md">Sep 6<br><strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
-	 </td>
-
-
-<td style=width:"30%">
-<ul>
-
-		
-</td>
-<td style=width:"50%">
+	<td> 1 </td>
 	
-		<li>Get a <a href = https://github.com/>Github account</a></li>
-		<li>Email me your handle (ie, GitHub name/login) from your NYU acct</li>
-		<li>Fwd your NYU email account to personal acct, if need be</li>
-		
-			<li>Read: Rushkoff’s Program or Be Programmed - Ch. 1 (on Basecamp)</li>
-			<li>Read: <a href = http://lifedev.net/2008/07/programmer-creativity-boost> Programming, Creative Boost </a></li>
-			<li>Read: PI - Ch. 2 - (on Basecamp)</li>
-			<li>Install <a href = https://processing.org/download/>Processing</a>. Go through the examples in Processing and play with them.</li>
-			</td>
+	<td><a href="week_1_detail_sep_6.md">Sep 6<strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
+	</td>
+
+	<td><a href="week_1_detail_sep_6.md">Sep 8<strong>Introduction to Processing</strong></a>
+	</td>
+
 </tr>
 
-<tr>
-<td>
-	 Week 1: Sept 8 <br> Tuesday <br> Intro to Processing II
-	 </td>
-	 
-	 <td>
-	 <ul>
-		<li> overall structure: setup() and draw(). </li>
-		<li> drawing primitives: line(), ellipse(), rect(), etc </li>
-		<li> graphics state: strokeWeight(), stroke(), fill(), smooth().</li>
-		<li> color, transparency.</li>
-		<li>time: millis(), frameCount()</li>
-		<li>interaction: mousePressed(), mouseX, keyPressed()</li>
-		<li>graphic transformations: translate(), scale(), pushMatrix(), etc.</li>
-		<li>mathematics: random(), map(), noise()</li>
-		</ul>
-</td>
-<td>
-	<ul>
-		<li>Install <a href = "https://desktop.github.com/"> Github Desktop for Mac/Windows </a>, <a href = "http://p5js.org/"> P5.js </a>, <a href = "http://brackets.io/"> Brackets </a>, <a href = "http://www.sublimetext.com/"> Sublime </a></li>
-		<li>Exercise 1: Monster
-			Write a program that creates a monster. Use 5 different colors and 7 different shapes (minimum)
-
-		<li>Read:
-			<a href= "http://www.cnet.com/news/forget-linkedin-companies-turn-to-github-to-find-tech-talent/">Git Hub vs Linked In </a> and
-			<a href = "http://io9.com/the-10-algorithms-that-dominate-our-world-1580110464">The 10 Algorithms that Dominate </a>
-			</li>
-			</ul>
-</td>
 
 
 <tr>
 	<td> Week 2: Sept 10 <br> Thursday<br> <strong> EXERCISE 1 DUE </strong>
-		Intro to Github    </td>
+		Intro to Github   
+	</td>
 
 
 <td>

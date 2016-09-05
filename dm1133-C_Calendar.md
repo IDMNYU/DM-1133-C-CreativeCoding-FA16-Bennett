@@ -12,9 +12,9 @@ Creative Coding Syllabus &amp; Class repo
 <table>
 
 <tr>
-<td style=width:"33.3%"> <strong> Date </strong></td>
-<td style=width:"33.3%"> <strong>In-Class                           </strong></td>
-<td style=width:"33.3"> <strong>For Homework </strong></td>
+<td > <strong> Date </strong></td>
+<td > <strong>In-Class                           </strong></td>
+<td > <strong>For Homework </strong></td>
 </tr>
 
 
@@ -299,7 +299,7 @@ Creative Coding Syllabus &amp; Class repo
 <tr>
 <td>
 
-	Week 6: <strong> Transform</strong> <br> Oct 15<br> Thursday  <strong>  <br> EXERCISE 4 DUE to GitHub at 9:58 am <br> </strong></td>
+	Week 6: <strong> Transform</strong> <br> Oct 15<br> Thursday  </td>
 
 	<td>
 	

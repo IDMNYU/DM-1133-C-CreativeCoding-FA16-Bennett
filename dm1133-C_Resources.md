@@ -197,6 +197,8 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • http://git-scm.com/docs
 
+•  [GitHub for Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1")
+
 • http://rogerdudler.github.com/git-guide/
 
 • http://www.lynda.com/GitHub-training-tutorials/1384-0.html

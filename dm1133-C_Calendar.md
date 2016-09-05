@@ -16,54 +16,38 @@
 <tr>
 	<td> 1 </td>
 	
-	<td><a href="week_1_detail_sep_6.md">Sep 6<strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
+	<td><a href="week_1_detail_sep_6.md">Sep 6<br><strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
 	</td>
 
-	<td><a href="week_1_detail_sep_6.md">Sep 8<strong>Introduction to Processing</strong></a>
+	<td><a href="week_1_detail_sep_6.md">Sep 8<br><strong>Introduction to Processing</strong></a>
 	</td>
 
 </tr>
 
 
-
 <tr>
-	<td> Week 2: Sept 10 <br> Thursday<br> <strong> EXERCISE 1 DUE </strong>
-		Intro to Github   
+	<td> 2 </td>
+
+	<td><a href="week_2_detail_sep_13.md">Sep 11<br><strong>GitHub/Turning in Assignments<br>Programming Basics</strong></a>
 	</td>
 
+	<td><a href="week_2_detail_sep_13.md">Sep 15<br><strong>Control Statements<br>Logical Operators</strong></a> <br>
+	<strong>EXERCISE 2 DUE</strong>
+	</td>
 
-<td>
-<ul>
-		<li> Blind Drawing Exercise </li>
-		<li>Intro to Github; Push homework to cloned repo (your personal repo)</li>
-		
-		<li> Variables, Scope + Control Statements, Logical Operators + Loops</li>
-		<li> Pseudo code & comments & println()</li>
-		<li> 
-		</ul>
-</td>
-<td>
-<ul>
-	
-		<li><a href = "https://github.com/IDMUY1133BCreativeCodingAssignments/Exercise_2"> Exercise 2 </a></li>
-		
-		<li> Read: LP - Ch. 0-2 </li>
-		<li> Read: <a href = "http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1"> GitHub for Beginners </a>
-		</ul>
-</td>
 </tr>
 
+ 
+
 <tr>
-<td>
-	Week 2: Repeat <br> Sept 15 <br> Tuesday <br> <strong>EXERCISE 2 DUE</strong> <br><strong> (Last Day to Drop Without a "W")</strong><br>
-		More Basics </td>
+
 
 <td>
 <ul>
 		<li>Variables, Scope + Control Statements, Logical Operators + Loops</li>
 		<li> Nested loops</li>
 		<li>lerp(), map() + gradients </li>
-		<li>Show + Tell ---> Pooja </li>
+		<li>Show + Tell --->  </li>
 		</ul>
 		</td>
 <td>

@@ -12,9 +12,9 @@
 
 <!-- dates -->
 <tr>
-  <td valign="top">2</td>
-  <td valign="top" width="48%"><strong>Sep 13</strong></td>
-  <td valign="top" width="48%"><strong>Sep 15</strong></td>
+  <td valign="top">3</td>
+  <td valign="top" width="48%"><strong>Sep 20</strong></td>
+  <td valign="top" width="48%"><strong>Sep 22</strong></td>
 </tr>
 
 <!-- class -->
@@ -22,20 +22,19 @@
 	<td valign="top">class</td>
 	<!-- day Tues -->
 	<td valign="top" width="48%">
-		<li>Intro to Github</li>	
-		<li> Variables, Scope + Control Statements, Logical Operators + Loops</li>
-		<li> Pseudo code & comments & println()</li>
+
+	<strong> In-class Challenge </strong>
+	
 	</td>
 	
 
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-	Repeat
-	<li> Nested loops</li>
-	<li>lerp(), map() + gradients </li>
-	<li>Show + Tell </li>
+	<li> Motion, Random </li>
+	<li> Functions + passing parameters </li>
+	<li> matrix transformations </li>
+	<li> Intro to P5.js </li>
 	
-
 		
 		
 	</td>
@@ -44,17 +43,13 @@
 <tr>
   <td valign="top">read</td>
   	<!-- day Tues -->
-  	<td valign="top"> 
-		<li> Learning Processing - Ch. 3 </li>
-		<li>
-		
-
+  	<td valign="top"> <a href = "https://p5js.org/get-started/">etting Started in P5.js </a>
+  	<a href = "https://github.com/processing/p5.js/wiki/Processing-transition"> Processing transition tutorial </a>
 	</td>
 
   	<!-- day Thurs -->
-  	<td valign="top"> 
-  		<li> Learning Processing - Ch. 5-6 </li>
-		<li> Generative Design - P.0, P.1.2.3 - P.2.1.3 </li>
+  	<td valign="top"> Learning Processing Ch. 7
+  
 		
 	
   	</td>
@@ -67,14 +62,14 @@
 
 	<!-- day Tues -->
  	<td valign="top"> 
- 		<li><a href = "Exercise_2.md"> Exercise 2 </a></li>
+ 	<li><a href = "Exercise_4.md"> Exercise 4 </a></li>
+ 		
  	</td>
 
   	<!-- day Thurs -->
   	<td valign="top">
-  	<li><a href = "Exercise_3.md"> Exercise 3 </a>
-		
+		<li><a href = "Exercise_5.md"> Exercise 5</a></li>
   	</td>
-
+  	
 </tr>
 </table>

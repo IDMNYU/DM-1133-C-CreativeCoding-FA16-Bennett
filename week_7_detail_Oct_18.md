@@ -12,9 +12,9 @@
 
 <!-- dates -->
 <tr>
-  <td valign="top">2</td>
-  <td valign="top" width="48%"><strong>Sep 13</strong></td>
-  <td valign="top" width="48%"><strong>Sep 15</strong></td>
+  <td valign="top">7</td>
+  <td valign="top" width="48%"><strong>Oct 18</strong></td>
+  <td valign="top" width="48%"><strong>Sep 8</strong></td>
 </tr>
 
 <!-- class -->
@@ -22,20 +22,13 @@
 	<td valign="top">class</td>
 	<!-- day Tues -->
 	<td valign="top" width="48%">
-		<li>Intro to Github</li>	
-		<li> Variables, Scope + Control Statements, Logical Operators + Loops</li>
-		<li> Pseudo code & comments & println()</li>
+	
 	</td>
 	
 
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-	Repeat
-	<li> Nested loops</li>
-	<li>lerp(), map() + gradients </li>
-	<li>Show + Tell </li>
 	
-
 		
 		
 	</td>
@@ -45,16 +38,15 @@
   <td valign="top">read</td>
   	<!-- day Tues -->
   	<td valign="top"> 
-		<li> Learning Processing - Ch. 3 </li>
-		<li>
 		
+		
+			
 
 	</td>
 
   	<!-- day Thurs -->
   	<td valign="top"> 
-  		<li> Learning Processing - Ch. 5-6 </li>
-		<li> Generative Design - P.0, P.1.2.3 - P.2.1.3 </li>
+  
 		
 	
   	</td>
@@ -67,14 +59,13 @@
 
 	<!-- day Tues -->
  	<td valign="top"> 
- 		<li><a href = "Exercise_2.md"> Exercise 2 </a></li>
+ 		
  	</td>
 
   	<!-- day Thurs -->
   	<td valign="top">
-  	<li><a href = "Exercise_3.md"> Exercise 3 </a>
 		
   	</td>
-
+  	
 </tr>
 </table>

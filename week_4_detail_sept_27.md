@@ -12,9 +12,9 @@
 
 <!-- dates -->
 <tr>
-  <td valign="top">2</td>
-  <td valign="top" width="48%"><strong>Sep 13</strong></td>
-  <td valign="top" width="48%"><strong>Sep 15</strong></td>
+  <td valign="top">4</td>
+  <td valign="top" width="48%"><strong>Sep 27</strong></td>
+  <td valign="top" width="48%"><strong>Sep 29</strong></td>
 </tr>
 
 <!-- class -->
@@ -22,20 +22,19 @@
 	<td valign="top">class</td>
 	<!-- day Tues -->
 	<td valign="top" width="48%">
-		<li>Intro to Github</li>	
-		<li> Variables, Scope + Control Statements, Logical Operators + Loops</li>
-		<li> Pseudo code & comments & println()</li>
+	<strong> In-class Challenge <br>
+	matrix transformations </strong>
+
+	<strong>Show & Tell  </strong>
 	</td>
 	
 
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-	Repeat
-	<li> Nested loops</li>
-	<li>lerp(), map() + gradients </li>
-	<li>Show + Tell </li>
+	Arrays <br>
+	Control 
+	<strong>Show & Tell --->  </strong>
 	
-
 		
 		
 	</td>
@@ -45,16 +44,15 @@
   <td valign="top">read</td>
   	<!-- day Tues -->
   	<td valign="top"> 
-		<li> Learning Processing - Ch. 3 </li>
-		<li>
+	Learning Processing: Ch. 14	
 		
+			
 
 	</td>
 
   	<!-- day Thurs -->
   	<td valign="top"> 
-  		<li> Learning Processing - Ch. 5-6 </li>
-		<li> Generative Design - P.0, P.1.2.3 - P.2.1.3 </li>
+    Learning Processing: Ch. 9, 13
 		
 	
   	</td>
@@ -66,15 +64,19 @@
   <td valign="top">do</td>
 
 	<!-- day Tues -->
- 	<td valign="top"> 
- 		<li><a href = "Exercise_2.md"> Exercise 2 </a></li>
+ 	<td valign ="top"> 
+ 	<a href = "Project_1.md"> Work on Project 1 </a>
+ 	pseudocode your project <br>
+ 	begin coding it <br>
+ 	Push your progress to your GitHub repo and put in a report/issue
+
  	</td>
 
   	<!-- day Thurs -->
-  	<td valign="top">
-  	<li><a href = "Exercise_3.md"> Exercise 3 </a>
-		
+  	<td valign = "top">
+	<a href = "Project_1.md"> Work on Project 1 </a> <br>
+	Push your progress to your GitHub repo and put in a report/issue
   	</td>
-
+  	
 </tr>
 </table>

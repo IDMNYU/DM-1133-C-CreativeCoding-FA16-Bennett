@@ -56,7 +56,8 @@
   <td valign="top"> 
 		
 		<li>Rushkoff’s Program or Be Programmed - Ch. 1 (on Slack)</li>
-		<li><a href = http://lifedev.net/2008/07/programmer-creativity-boost> Programming, Creative Boost </a></li>
+		<a href = "http://io9.com/the-10-algorithms-that-dominate-our-world-1580110464">The 10 Algorithms that Dominate </a>
+		</li>
 		<li>Programming Interactivity - Ch. 2 - (on Slack)</li>
 			
 
@@ -64,9 +65,8 @@
   <!-- day Thurs -->
   <td valign="top"> 
   
-		<li><a href= "http://www.cnet.com/news/forget-linkedin-companies-turn-to-github-to-find-tech-talent/">Git Hub vs Linked In </a> and
-		<a href = "http://io9.com/the-10-algorithms-that-dominate-our-world-1580110464">The 10 Algorithms that Dominate </a>
-		</li>
+		<li> Learning Processing - Ch. 1-2 </li>
+		
 	
   </td>
  </tr>
@@ -86,8 +86,7 @@
   	<!-- day Thurs -->
   	<td valign="top">
 		<li>Install <a href = "https://desktop.github.com/"> Github Desktop for Mac/Windows </a>, <a href = "http://p5js.org/"> P5.js </a>, <a href = "http://brackets.io/"> Brackets </a>, <a href = "http://www.sublimetext.com/"> Sublime </a></li>
-		<li>Exercise 1: Monster
-			Write a program that creates a monster. Use 5 different colors and 7 different shapes (minimum). Make them interesting! How is their personality visually evident? </li>
+		<li><a href = "Exercise_1.md"> Exercise 1</li>
   	</td>
 </tr>
 </table>

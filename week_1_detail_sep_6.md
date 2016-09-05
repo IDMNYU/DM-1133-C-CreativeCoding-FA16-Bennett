@@ -22,23 +22,23 @@
 	<td valign="top">class</td>
 	<!-- day Tues -->
 	<td valign="top" width="48%">
-	<ul>
-		<strong>Course and Student Introductions</strong><br>
-		<strong>Overview of Course</strong>
+	
+	<strong>Course and Student Introductions</strong><br>
+	<strong>Overview of Course</strong>
 
-		<li> Links </li>
+		<ul> Links
 
 		<li> <a href=https://www.rescuetime.com/> Rescue Time </a></li>
 		<li> <a href=http://selfcontrolapp.com/> Self Control </a></li>
 		<li> <a href= https://evernote.com/> Evernote </a></li>
 		<li> <a href= http://www.studygs.net/texred2.htm> SQ3R </a></li>
-
-		<strong>In-Class Exercise</strong>
-	</ul>
+		</ul>
+	<strong>In-Class Exercise</strong>
+	
 
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-	<ul>
+	
 		<li> overall structure: setup() and draw(). </li>
 		<li> drawing primitives: line(), ellipse(), rect(), etc </li>
 		<li> graphics state: strokeWeight(), stroke(), fill(), smooth().</li>
@@ -47,7 +47,7 @@
 		<li>interaction: mousePressed(), mouseX, keyPressed()</li>
 		<li>graphic transformations: translate(), scale(), pushMatrix(), etc.</li>
 		<li>mathematics: random(), map(), noise()</li>
-		</ul>
+		
 	</td>
 
 <!-- homework -->

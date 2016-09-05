@@ -16,10 +16,10 @@
 <tr>
 	<td> 1 </td>
 	
-	<td><a href="week_1_detail_sep_6.md">Sep 6<br><strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
+	<td valign="top"><a href="week_1_detail_sep_6.md">Sep 6<br><strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
 	</td>
 
-	<td><a href="week_1_detail_sep_6.md">Sep 8<br><strong>Introduction to Processing</strong></a>
+	<td valign="top"><a href="week_1_detail_sep_6.md">Sep 8<br><strong>Introduction to Processing</strong></a>
 	</td>
 
 </tr>
@@ -28,10 +28,10 @@
 <tr>
 	<td> 2 </td>
 
-	<td><a href="week_2_detail_sep_13.md">Sep 11<br><strong>GitHub/Turning in Assignments<br>Programming Basics</strong></a>
+	<td valign="top"><a href="week_2_detail_sep_13.md">Sep 11<br><strong>GitHub/Turning in Assignments<br>Programming Basics</strong></a>
 	</td>
 
-	<td><a href="week_2_detail_sep_13.md">Sep 15<br><strong>Control Statements<br>Logical Operators</strong></a> <br>
+	<td valign="top"><a href="week_2_detail_sep_13.md">Sep 15<br><strong>Control Statements<br>Logical Operators</strong></a> <br>
 	<strong>EXERCISE 2 DUE</strong>
 	</td>
 

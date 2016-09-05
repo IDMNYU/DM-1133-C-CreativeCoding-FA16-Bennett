@@ -31,6 +31,11 @@
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
 	Repeat
+	<li> Nested loops</li>
+	<li>lerp(), map() + gradients </li>
+	<li>Show + Tell </li>
+	<strong> In-class Challenge </strong>
+
 		
 		
 	</td>
@@ -48,7 +53,8 @@
 
   	<!-- day Thurs -->
   	<td valign="top"> 
-  
+  		<li> Read: LP - Ch. 3 </li>
+		<li> Read: Generative Design - P.0, P.1.2.3 - P.2.1.3 </li>
 		
 	
   	</td>
@@ -66,6 +72,8 @@
 
   	<!-- day Thurs -->
   	<td valign="top">
+  	<li> Exercise 3: Repetition: Modularity, Pattern <br>
+		Using 1 form/shape and create 3 different grid patterns. Consider different rhythms that you can make with spacing, direction/orientation and repetition. </li>
 		
   	</td>
 

@@ -1,54 +1,31 @@
-# Calendar for DM-UY1133-C Creative Coding FA16
-Creative Coding Syllabus &amp; Class repo
+# DM-UY 1133C Creative Coding
+##### Fall 2016 • Katherine Bennett • Tuesdays & Thursdays • 2:30-4:20pm 
 
-* **Katherine Bennett, Visiting Assistant Professor**
-* **Email:Katherine.Bennett@nyu.edu**
-* **Office Hours: Tues + Thur 4:20-6pm, otherwise by appointment** 
-* **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 884**
-
-## CALENDAR
+## CALENDAR Overview
 
 
 <table>
 
 <tr>
-<td > <strong> Date </strong></td>
-<td > <strong>In-Class                           </strong></td>
-<td > <strong>For Homework </strong></td>
+<th width="4%">Wk </th> 
+<th width="48%"> Tuesdays (Due the Date Listed)</th> 
+<th width="48%"> Thursday (Due the Date Listed)</th> 
 </tr>
 
 
 <tr>
-<td style=width:"30%">
+<td >1 </td>
+<td><a href="week_1_detail_sep_6.md">Sep 6<br><strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
+	 </td>
 
-	 Week 1: Sept 3 <br> Thursday<br> Introduction to Course + Processing
+	 <td><a href="week_1_detail_sep_6.md">Sep 6<br><strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
 	 </td>
 
 
 <td style=width:"30%">
 <ul>
 
-		<li> Introductions 
-		<li> Course Outline
-		<li> Expectancies
-
-		<li> <a href=https://www.rescuetime.com/> Rescue Time </a></li>
-		<li> <a href=http://selfcontrolapp.com/> Self Control </a></li>
-		<li> <a href= https://evernote.com/> Evernote </a></li>
-		<li> <a href= http://www.studygs.net/texred2.htm> SQ3R </a></li>
-
-		<li> <a href = https://processing.org/download/>Download Processing</a></li>
-		<li><a href= https://processing.org/reference/>The Processing reference</a></li>
-	 	<li><a href = https://processing.org/examples/>The Processing examples</a></li>
-		<li><a href = https://processing.org/exhibition/> The Processing exhibition </a></li>
-		<li><a href = https://processing.org/tutorials/> Processing tutorials</a>, <a href = http://learningprocessing.com/videos/> Dan Shiffman Tutorials </a></li>
-		<li><a href = https://processing.org/reference/libraries/> Processing libraries </a></li>
-		<li>An overview of the Processing environment.</li>
-		<li> Running examples</li>
-		<li>Your sketchbook</li>
-		<li>An overview of the environment.</li>
-		<li>A lightning-fast introduction to Processing code.</li>
-	</ul>
+		
 </td>
 <td style=width:"50%">
 	

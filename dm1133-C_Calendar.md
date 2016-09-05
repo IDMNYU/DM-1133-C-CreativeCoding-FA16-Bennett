@@ -50,7 +50,7 @@
 	</td>
 
 
-	<td>
+	
 	<td valign="top"><a href="week_3_detail_sept_20.md">Sep 22<br><strong>
 		<li> Motion, Random </li>
 		<li> Functions + passing parameters </li>
@@ -73,7 +73,7 @@
 	</td>
 
 
-	<td>
+
 	<td valign="top"><a href="week_4_detail_sept_27.md">Sep 29<br><strong>
 		<li> Arrays </li>
 		<li> Control  </li>

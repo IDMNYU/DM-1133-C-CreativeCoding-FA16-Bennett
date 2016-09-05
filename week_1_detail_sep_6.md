@@ -25,9 +25,8 @@
 	
 	<strong>Course and Student Introductions</strong><br>
 	<strong>Overview of Course</strong>
-
-		<ul> Links
-
+	Links
+		<ul> 
 		<li> <a href=https://www.rescuetime.com/> Rescue Time </a></li>
 		<li> <a href=http://selfcontrolapp.com/> Self Control </a></li>
 		<li> <a href= https://evernote.com/> Evernote </a></li>
@@ -64,11 +63,11 @@
 	</td>
   <!-- day Thurs -->
   <td> 
-  	<ul>
+  
 		<li><a href= "http://www.cnet.com/news/forget-linkedin-companies-turn-to-github-to-find-tech-talent/">Git Hub vs Linked In </a> and
 		<a href = "http://io9.com/the-10-algorithms-that-dominate-our-world-1580110464">The 10 Algorithms that Dominate </a>
 		</li>
-	</ul>
+	
   </td>
  </tr>
 
@@ -88,7 +87,7 @@
   	<td>
 		<li>Install <a href = "https://desktop.github.com/"> Github Desktop for Mac/Windows </a>, <a href = "http://p5js.org/"> P5.js </a>, <a href = "http://brackets.io/"> Brackets </a>, <a href = "http://www.sublimetext.com/"> Sublime </a></li>
 		<li>Exercise 1: Monster
-			Write a program that creates a monster. Use 5 different colors and 7 different shapes (minimum) </li>
+			Write a program that creates a monster. Use 5 different colors and 7 different shapes (minimum). Make them interesting! How is their personality visually evident? </li>
   	</td>
 </tr>
 </table>

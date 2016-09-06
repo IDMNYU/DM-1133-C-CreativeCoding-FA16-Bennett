@@ -175,12 +175,12 @@ If you use code from online, whether for inspiration, modification or reference,
 
 Do the follow these steps for each assignment:
 
-1. Use a text editor to create the appropriate files - "index.html" and "sketch.js" OR "firstNameAssignment#.pde"
-2. Save them in a folder titled: firstNameAssignment#, with the number of the assignment.
-3. Create a new repository on your GitHub account online. The repository should be titled CC_Ex#, filling in the number of the exercise. Include the README.md option
-4. Make me a collaborator on this repository. My Github handle is LadyK.
-5. Upload your folder. This file should contain all of the supporting files and documents.
-6. Under the "Issues" tab, create a new issue. Note what bugs you are having, or where help is needed. Copy and paste the specific code in the comment area. Label the issue accordingly.
+	1. Use a text editor to create the appropriate files - "index.html" and "sketch.js" OR "firstNameAssignment#.pde"
+	2. Save them in a folder titled: firstNameAssignment#, with the number of the assignment.
+	3. Create a new repository on your GitHub account online. The repository should be titled CC_Ex#, filling in the number of the exercise. Include the README.md option
+	4. Make me a collaborator on this repository. My Github handle is LadyK.
+	5. Upload your folder. This file should contain all of the supporting files and documents.
+	6. Under the "Issues" tab, create a new issue. Note what bugs you are having, or where help is needed. Copy and paste the specific code in the comment area. Label the issue accordingly.
 
 ###[Show and Tell](dm1133-C_ShowAndTell.md)
 

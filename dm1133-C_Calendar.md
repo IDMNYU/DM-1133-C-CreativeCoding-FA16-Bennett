@@ -92,7 +92,7 @@
 
 	<td valign="top"><a href="week_5_detail_Oct_4.md">Oct 4<br><strong>
 		<li> In-class challenge</li>
-		<li>matrix transformations </li></a>
+		<li>Objects </li> </a>
 		<li>Show + Tell --->  </li>
 		
 		</strong>
@@ -102,9 +102,8 @@
 
 	
 	<td valign="top"><a href="week_5_detail_oct_4.md">Oct 6<br><strong>
-		<li> Arrays </li>
-		<li> Control  </li> 	</a>
-		<li>Show + Tell --->  </li>
+		<li>OOP in Processing </li>
+		<li>OOP in P5.js </li>
 		</strong>
 	</td>
 
@@ -116,9 +115,8 @@
 <td> 6 </td>
 
 	<td valign="top"><a href="week_6_detail_oct_11.md">Oct 11<br><strong>
-		<li> In-class challenge</li>
-		<li>Objects </li> </a>
-		<li>Show + Tell --->  </li>
+		OOP: Inheritance + Polymorphism <br> </a>
+	Show + Tell --->
 		</strong>
 		
 	</td>
@@ -126,8 +124,7 @@
 
 	
 	<td valign="top"><a href="week_6_detail_oct_11.md">Oct 13<br><strong>
-		<li>OOP in Processing </li>
-		<li>OOP in P5.js </li>
+		In-class Challenge
 		</strong>
 	</td>
 	</a>
@@ -140,17 +137,19 @@
 <tr>
 <td> 7 </td>
 
-	<td valign="top"><a href="week_7_detail_oct_18.md">Oct 18<br><strong>OOP: Inheritance + Polymorphism <br> </a>
-	Show + Tell --->
-		
+	<td valign="top"><a href="week_7_detail_oct_18.md">Oct 18<br><strong>
+		<a href = "Exercise_6.mp"> Exercise 6 Due <br>
+		<li> Working with Text</li>
+		 </a>
+		<li>Show + Tell --->  </li>
 				</strong>
 				
 		</td>
 
 
-		<td valign = "top"> <a href="week_7_detail_oct_18.md">Oct 20<br><strong>In-class Challenge
+		<td valign = "top"> <a href="week_7_detail_oct_18.md">Oct 20<br><strong><li>Working with Images </li> </a>
 		</strong>
-		</a>
+		
 		</td>
 </tr>
 
@@ -159,10 +158,11 @@
 <tr>
 <td> 8 </td>
 
-	<td valign="top"><a href="week_8_detail_oct_25.md">Oct 25<br><strong>	<a href = "Exercise_6.mp"> Exercise 6 Due </a> <br>
-		<li> Working with Text</li>
-		 </a>
-		<li>Show + Tell --->  </li>
+	<td valign="top"><a href="week_8_detail_oct_25.md">Oct 25<br><strong>	<a href = "Exercise_7.mp"> Exercise 7 Due </a> <br>
+		<li> In-class Challenge</li>
+		<li>Pixel Manipulations  </li> 
+		</a>
+		
 		</strong>
 		
 	</td>
@@ -170,7 +170,10 @@
 
 	
 	<td valign="top"><a href="week_8_detail_oct_25.md">Oct 27<br><strong>
-		<li>Working with Images </li>
+		<a href = "Exercise_8.mp"> Exercise 8 Due<br>
+		<li> String Manipulations</li>
+		 </a> 
+		<li>Show + Tell --->  </li>
 		<li></li>
 		</strong>
 	</td>
@@ -182,20 +185,16 @@
 <tr>
 <td> 9 </td>
 
-	<td valign="top"><a href="week_9_detail_Nov_1.md">Nov 1<br><strong>	<a href = "Exercise_7.mp"> Exercise 7 Due </a> <br>
-		<li> In-class Challenge</li>
-		<li>Pixel Manipulations  </li> 
-		</a>
-		<li>Show + Tell --->  </li>
-		</strong>
+	<td valign="top"><a href="week_9_detail_Nov_1.md">Nov 1<br><strong>	
+		<li>API's  </li></strong>
 		
 	</td>
 
 
 	
 	<td valign="top"><a href="week_9_detail_Nov_1.md">Nov 3<br><strong>
-		<li>Pixel Manipulations  </li>
-		<li> In-class Challenge</li>
+		<a href = "Exercise_8.mp"> Exercise 8 Due </a> <br>
+		<li> Round Table for Final Project </li>
 		<li></li>
 		</strong>
 	</td>
@@ -207,10 +206,7 @@
 <tr>
 <td> 10 </td>
 
-	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 8<br><strong>	<a href = "Exercise_8.mp"> Exercise 8 Due<br>
-		<li> String Manipulations</li>
-		 </a> 
-		<li>Show + Tell --->  </li>
+	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 8<br><strong>	
 		</strong>
 		
 	</td>
@@ -218,7 +214,7 @@
 
 	
 	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 10<br><strong>
-		<li>API's  </li>
+		
 		
 		</strong>
 	</td>
@@ -230,8 +226,7 @@
 <tr>
 <td> 11 </td>
 
-	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 15<br><strong>	<a href = "Exercise_8.mp"> Exercise 8 Due </a> <br>
-		<li> Round Table for Final Project </li>
+	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 15<br><strong>	
 		</strong>
 		</a>
 	</td>
@@ -252,7 +247,7 @@
 
 	<td valign="top">Nov 22<br>
 	<strong>	
-		<li> Round Table for Final Project </li>
+		
 		</strong>
 		
 	</td>

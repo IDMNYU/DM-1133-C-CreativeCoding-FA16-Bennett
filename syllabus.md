@@ -153,7 +153,7 @@ A typical week will aim for the following schedule:
 	• Day 2: 3:00 - 4:10 Pair Programming Challenge
 	• Day 2: 4:10 - 4:20 Submit Pair Programming Challenge Progress + determine next steps
 
-	Please note, until Thanksgiving Holiday, Day 1 is on Thursdays. Beginning December 1st, Day 1 is on Tuesdays. Make sure to understand what date your Show + Tell presentation is!!
+
 
 ###Important Aspects of this Course
 

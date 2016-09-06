@@ -101,7 +101,7 @@
 
 
 	
-	<td valign="top"><a href="week_5_detail_oct_4.md">Oct 6<br><strong>
+	<td valign="top"><a href="week_5_detail_Oct_4.md">Oct 6<br><strong>
 		<li>OOP in Processing </li>
 		<li>OOP in P5.js </li>
 		</strong>
@@ -114,7 +114,7 @@
 <tr>
 <td> 6 </td>
 
-	<td valign="top"><a href="week_6_detail_oct_11.md">Oct 11<br><strong>
+	<td valign="top"><a href="week_6_detail_Oct_11.md">Oct 11<br><strong>
 		OOP: Inheritance + Polymorphism <br> </a>
 	Show + Tell --->
 		</strong>
@@ -123,7 +123,7 @@
 
 
 	
-	<td valign="top"><a href="week_6_detail_oct_11.md">Oct 13<br><strong>
+	<td valign="top"><a href="week_6_detail_Oct_11.md">Oct 13<br><strong>
 		In-class Challenge
 		</strong>
 	</td>
@@ -137,7 +137,7 @@
 <tr>
 <td> 7 </td>
 
-	<td valign="top"><a href="week_7_detail_oct_18.md">Oct 18<br><strong>
+	<td valign="top"><a href="week_7_detail_Oct_18.md">Oct 18<br><strong>
 		<a href = "Exercise_6.mp"> Exercise 6 Due <br>
 		<li> Working with Text</li>
 		 </a>
@@ -147,7 +147,7 @@
 		</td>
 
 
-		<td valign = "top"> <a href="week_7_detail_oct_18.md">Oct 20<br><strong><li>Working with Images </li> </a>
+		<td valign = "top"> <a href="week_7_detail_Oct_18.md">Oct 20<br><strong><li>Working with Images </li> </a>
 		</strong>
 		
 		</td>
@@ -158,19 +158,17 @@
 <tr>
 <td> 8 </td>
 
-	<td valign="top"><a href="week_8_detail_oct_25.md">Oct 25<br><strong>	<a href = "Exercise_7.mp"> Exercise 7 Due </a> <br>
+	<td valign="top"><a href="week_8_detail_Oct_25.md">Oct 25<br><strong>	<a href = "Exercise_7.mp"> Exercise 7 Due </a> <br>
 		<li> String Manipulations</li>
 		 </a> 
 		<li>Show + Tell --->  </li>
-		</a>
-		
 		</strong>
 		
 	</td>
 
 
 	
-	<td valign="top"><a href="week_8_detail_oct_25.md">Oct 27<br><strong>
+	<td valign="top"><a href="week_8_detail_Oct_25.md">Oct 27<br><strong>
 		<strong> In-class Challenge </strong>
 		
 		<li></li>

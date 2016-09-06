@@ -33,7 +33,7 @@
 	<td valign="top" width="48%">
 	Arrays <br>
 	Control <br>
-	<strong>Show & Tell --->  </strong>
+	<strong>Show & Tell </strong>
 	
 		
 		

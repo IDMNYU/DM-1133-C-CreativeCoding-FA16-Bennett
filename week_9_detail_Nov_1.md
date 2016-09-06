@@ -47,6 +47,7 @@
 
   	<!-- day Thurs -->
   	<td valign="top"> 
+  		<a href = "http://lifedev.net/2008/07/programmer-creativity-boost/"> Programmer Creativity Boost </a>
         See directives from Roundtable
 		
 	

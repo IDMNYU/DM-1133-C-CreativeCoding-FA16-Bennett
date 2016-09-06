@@ -22,7 +22,7 @@
 	<td valign="top">class</td>
 	<!-- day Tues -->
 	<td valign="top" width="48%">
-	<a href = "Exercise_7.mp"> Exercise 7 Due </a> <br>
+	<a href = > Exercise 7 Due </a> <br>
 		<li> String Manipulations</li>
 		 </a> 
 		<li>Show + Tell  </li>

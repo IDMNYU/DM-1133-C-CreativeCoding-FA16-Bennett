@@ -160,7 +160,8 @@
 <td> 8 </td>
 
 	<td valign="top"><a href="week_8_detail_oct_25.md">Oct 25<br><strong>	<a href = "Exercise_6.mp"> Exercise 6 Due </a> <br>
-		<li> Working with Text</li> </a>
+		<li> Working with Text</li>
+		 </a>
 		<li>Show + Tell --->  </li>
 		</strong>
 		
@@ -183,7 +184,8 @@
 
 	<td valign="top"><a href="week_9_detail_Nov_1.md">Nov 1<br><strong>	<a href = "Exercise_7.mp"> Exercise 7 Due </a> <br>
 		<li> In-class Challenge</li>
-		<li>Pixel Manipulations  </li> </a>
+		<li>Pixel Manipulations  </li> 
+		</a>
 		<li>Show + Tell --->  </li>
 		</strong>
 		
@@ -205,11 +207,12 @@
 <tr>
 <td> 10 </td>
 
-	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 8<br><strong>	<a href = "Exercise_8.mp"> Exercise 8 Due </a> <br>
+	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 8<br><strong>	<a href = "Exercise_8.mp"> Exercise 8 Due<br>
 		<li> String Manipulations</li>
+		 </a> 
 		<li>Show + Tell --->  </li>
 		</strong>
-		</a>
+		
 	</td>
 
 

@@ -206,7 +206,9 @@
 <td> 10 </td>
 
 	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 8<br><strong>	Vectors
-		</strong>
+		</strong> <br> </a>
+		Show & Tell ---> 
+
 		
 	</td>
 
@@ -226,16 +228,19 @@
 <td> 11 </td>
 
 	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 15<br><strong>	 Particle Systems
-		</strong>
+		
 		</a>
+		<br> 
+		Show & Tell ---> </strong>
 	</td>
 
 
 	
 	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 17<br><strong> Final Project working Prototype Due <br>
-	Topics by Request
+	Topics by Request </a>
 		<li> </li>
-		
+		<br> 
+		Show & Tell --->
 		</strong>
 	</td>
 	</a>
@@ -248,6 +253,9 @@
 	<td valign="top">Nov 22<br>
 	<strong>	
 		Topics by Request
+		<br> 
+		Show & Tell --->
+		
 		</strong>
 		
 	</td>
@@ -265,14 +273,20 @@
 	<td valign="top">Nov 29<br><strong>
 	Final Project Beta Due <br>
 	Topics by Request
+	<br> 
+		Show & Tell --->
+		</strong>
 		<li> </li>
+
 		
 		</strong>
 	</td>
 
 
 	<td valign="top">Dec 1<br><strong>
-	Topics by Request
+	Topics by Request <br>
+	Show & Tell --->
+		</strong>
 		<li> </li>
 		
 		</strong>

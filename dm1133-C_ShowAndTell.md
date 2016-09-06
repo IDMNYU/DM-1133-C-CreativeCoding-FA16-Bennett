@@ -32,23 +32,23 @@ Get familiar with your display preferences!!
 
 #### Show and Tell People
 
-Sept 15 - Joshua Davis, Golan Levin (drawing systems + collaborations) ---> Pooja
+Sept 15 - Joshua Davis, Golan Levin (drawing systems + collaborations) ---> 
 
-Sept 17 -  Casey Reas, Zachary Lieberman ---> 
+Sept 20 -  Casey Reas, Zachary Lieberman ---> 
 
-Sept 22 - United Visual Artists, Hellicar & Lewis ---> 
+Sept 27 - United Visual Artists, Hellicar & Lewis ---> 
 
-Sept 24 - Robert Hodgin - Flight404, Karsten Schmidt ---> 
+Sept 29 - Robert Hodgin - Flight404, Karsten Schmidt ---> 
 
-Sept 29 - Julian Oliver, Moritz Stefaner, Martin Wattenberg ---> 
+Oct 4 - Julian Oliver, Moritz Stefaner, Martin Wattenberg ---> 
 
-Oct 6 -  Jer Thorpe, Soso Limited ---> 
+Oct 11 -  Jer Thorpe, Soso Limited ---> 
 
-Oct 15 - Marius Watz & Memo Akten ---> 
+Oct 18 - Marius Watz & Memo Akten ---> 
 
-Oct 20 - Seb Lee-Delisle & Kyle McDonald ---> 
+Oct 25 - Seb Lee-Delisle & Kyle McDonald ---> 
 
-Oct 27 - Field - http://www.field.io/, Josh Nimoy ---> 
+Nov 8 - Field - http://www.field.io/, Josh Nimoy ---> 
 
 Nov 3 - Jurg Lehni, Red Paper Heart   ---> 
 
@@ -56,20 +56,17 @@ Nov 5 - Amit Pitaru, rAndom International  --->
 
 Nov 10 -  Diato Manabe, Leo Villareal ---> 
 
-Nov 12 - Karolina Sobecka, N-e-r-v-o-u-s-S-y-s-t-e-m ---> 
+Nov 12 -  Congaz, N-e-r-v-o-u-s-S-y-s-t-e-m ---> 
 
-Nov 24 - Eno Henze, Dedric Kiefer ---> 
+Nov 15 - Eno Henze, Dedric Kiefer ---> 
 
-Dec 1 - Karolina Sobecka, N-e-r-v-o-u-s-S-y-s-t-e-m ---> 
-		Eno Henze, Dedric Kiefer ---> 
+Nov 17 - Karolina Sobecka, Future Cities Lab ---> 
+		
+Nov 22- Paul Prudence, Moment Factory ---> 
+		
+Nov 29 - Ryan Habbyshaw,Lauren McCarthy  ---> 
 
-Dec 3 - Paul Prudence, Moment Factory ---> 
-		Lauren McCarthy, Future Cities Lab ---> 
-
-Dec 8 - Ryan Habbyshaw, Cogaz ---> Jason
-		Lia, Santiago Ortiz (Moebio.com) ---> 
-
-Dec 10 - Buffer
+Dec 1 - Lia, Santiago Ortiz (Moebio.com) ---> 
 
 
-Extra Credit Possibilities:  Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road, ...
+Extra Credit Possibilities:  Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road, Michael Hansmeyer, Waltz Binaire ...

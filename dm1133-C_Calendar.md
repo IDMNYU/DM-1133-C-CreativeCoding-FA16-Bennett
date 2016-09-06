@@ -159,8 +159,9 @@
 <td> 8 </td>
 
 	<td valign="top"><a href="week_8_detail_oct_25.md">Oct 25<br><strong>	<a href = "Exercise_7.mp"> Exercise 7 Due </a> <br>
-		<li> In-class Challenge</li>
-		<li>Pixel Manipulations  </li> 
+		<li> String Manipulations</li>
+		 </a> 
+		<li>Show + Tell --->  </li>
 		</a>
 		
 		</strong>
@@ -170,12 +171,10 @@
 
 	
 	<td valign="top"><a href="week_8_detail_oct_25.md">Oct 27<br><strong>
-		<a href = "Exercise_8.mp"> Exercise 8 Due<br>
-		<li> String Manipulations</li>
-		 </a> 
-		<li>Show + Tell --->  </li>
+		<strong> In-class Challenge </strong>
+		
 		<li></li>
-		</strong>
+		
 	</td>
 	</a>
 </tr>

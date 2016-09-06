@@ -23,7 +23,7 @@
 	<!-- day Tues -->
 	<td valign="top" width="48%">
 	<strong> In-class Challenge <br>
-	matrix transformations </strong>
+	matrix transformations </strong> <br>
 
 	<strong>Show & Tell  </strong>
 	</td>
@@ -32,7 +32,7 @@
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
 	Arrays <br>
-	Control 
+	Control <br>
 	<strong>Show & Tell --->  </strong>
 	
 		

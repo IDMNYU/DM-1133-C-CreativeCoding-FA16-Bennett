@@ -22,14 +22,18 @@
 	<td valign="top">class</td>
 	<!-- day Tues -->
 	<td valign="top" width="48%">
-	OOP: Inheritance + Polymorphism <br>
-	Show + Tell
+	<a href = "Exercise_6.mp"> Exercise 6 Due <br>
+		<li> Working with Text</li>
+		 </a>
+		<li>Show + Tell --->  </li>
+				</strong> 
 	</td>
 	
 
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-	In-class Challenge
+	<strong><li>Working with Images </li> </a>
+		</strong>
 		
 		
 	</td>
@@ -39,7 +43,7 @@
   <td valign="top">read</td>
   	<!-- day Tues -->
   	<td valign="top"> 
-	Reivew OOP Reading Assignments	
+	Learning Processing: Ch. 17
 		
 			
 
@@ -47,7 +51,7 @@
 
   	<!-- day Thurs -->
   	<td valign="top"> 
-  	Review OOP Reading Assignments
+  	Learning Processing: Ch. 15
 		
 	
   	</td>
@@ -60,12 +64,12 @@
 
 	<!-- day Tues -->
  	<td valign="top"> 
- 		<a href = "Exercise_6.md">Exercise 6. Push your Progress to gitHub. Flag issues, help and quesitons. </a>
+ 		<a href = "Exercise_7.md">Exercise 7.  </a>
  	</td>
 
   	<!-- day Thurs -->
   	<td valign="top">
-		<a href = "Exercise_6.md">Exercise 6. Push your Progress to gitHub. Flag issues, help and quesitons. </a>
+		<a href = "Exercise_7.md"> Finish Exercise 7.  </a>
   	</td>
   	
 </tr>

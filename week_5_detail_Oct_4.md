@@ -22,13 +22,16 @@
 	<td valign="top">class</td>
 	<!-- day Tues -->
 	<td valign="top" width="48%">
-	
+	In-class challenge <br>
+	Show + Tell <br>
+	Objects
 	</td>
 	
 
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-	
+		<li>OOP in Processing </li>
+		<li>OOP in P5.js </li>
 		
 		
 	</td>

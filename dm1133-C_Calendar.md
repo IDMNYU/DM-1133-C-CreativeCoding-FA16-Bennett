@@ -193,7 +193,6 @@
 
 	
 	<td valign="top"><a href="week_9_detail_Nov_1.md">Nov 3<br><strong>
-		 <br>
 		<li> Round Table for Final Project </li>
 		<li></li>
 		</strong>
@@ -310,7 +309,7 @@
 <td> 15 </td>
 	<td valign="top">Dec 20<br><strong>
 		<li> </li>
-		Not meeting on campus
+		Not meeting on campus<br>
 		Turn in Materials 
 		</strong>
 	</td>
@@ -318,7 +317,7 @@
 
 	<td valign="top">Dec 22<br><strong>
 		<li> </li>
-		Not meeting on campus
+		Not meeting on campus <br>
 		Turn in Materials
 		</strong>
 	</td>

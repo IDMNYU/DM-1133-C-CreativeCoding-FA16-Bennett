@@ -138,9 +138,10 @@
 <td> 7 </td>
 
 	<td valign="top"><a href="week_7_detail_Oct_18.md">Oct 18<br><strong>
-		<a href = "Exercise_6.mp"> Exercise 6 Due <br>
+		
 		<li> Working with Text</li>
 		 </a>
+		 <a href = "Exercise_6.md"> Exercise 6 Due <br></a>
 		<li>Show + Tell --->  </li>
 				</strong>
 				
@@ -158,10 +159,11 @@
 <tr>
 <td> 8 </td>
 
-	<td valign="top"><a href="week_8_detail_Oct_25.md">Oct 25<br><strong>	<a href = "Exercise_7.mp"> Exercise 7 Due </a> <br>
+	<td valign="top"><a href="week_8_detail_Oct_25.md">Oct 25<br><strong>	
 		<li> String Manipulations</li>
 		 </a> 
 		<li>Show + Tell --->  </li>
+		<a href = "Exercise_7.mp"> Exercise 7 Due </a> <br>
 		</strong>
 		
 	</td>

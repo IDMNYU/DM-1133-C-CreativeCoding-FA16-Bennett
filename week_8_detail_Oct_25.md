@@ -12,9 +12,9 @@
 
 <!-- dates -->
 <tr>
-  <td valign="top">4</td>
-  <td valign="top" width="48%"><strong>Sep 27</strong></td>
-  <td valign="top" width="48%"><strong>Sep 29</strong></td>
+  <td valign="top">8</td>
+  <td valign="top" width="48%"><strong>Oct 25</strong></td>
+  <td valign="top" width="48%"><strong>Oct 27</strong></td>
 </tr>
 
 <!-- class -->
@@ -22,19 +22,18 @@
 	<td valign="top">class</td>
 	<!-- day Tues -->
 	<td valign="top" width="48%">
-	<strong> In-class Challenge <br>
-	matrix transformations </strong> <br>
-
-	<strong>Show & Tell  </strong>
+	<a href = "Exercise_7.mp"> Exercise 7 Due </a> <br>
+		<li> String Manipulations</li>
+		 </a> 
+		<li>Show + Tell  </li>
+		</strong
 	</td>
 	
 
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-	Arrays <br>
-	Control <br>
-	<strong>Show & Tell </strong>
-	
+	<strong> In-class Challenge </strong>
+	<li>Show + Tell  </li>
 		
 		
 	</td>
@@ -44,7 +43,7 @@
   <td valign="top">read</td>
   	<!-- day Tues -->
   	<td valign="top"> 
-	Learning Processing: Ch. 14	
+		
 		
 			
 
@@ -52,7 +51,7 @@
 
   	<!-- day Thurs -->
   	<td valign="top"> 
-    Learning Processing: Ch. 9, 13
+  
 		
 	
   	</td>
@@ -64,18 +63,13 @@
   <td valign="top">do</td>
 
 	<!-- day Tues -->
- 	<td valign ="top"> 
- 	<a href = "Project_1.md"> Work on Project 1 </a> <br>
- 	pseudocode your project <br>
- 	begin coding it <br>
- 	Push your progress to your GitHub repo and put in a report/issue
-
+ 	<td valign="top"> 
+ 		
  	</td>
 
   	<!-- day Thurs -->
-  	<td valign = "top">
-	<a href = "Project_1.md"> Work on Project 1 </a> <br>
-	Push your progress to your GitHub repo and put in a report/issue
+  	<td valign="top">
+		
   	</td>
   	
 </tr>

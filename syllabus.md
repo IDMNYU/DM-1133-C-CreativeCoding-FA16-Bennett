@@ -3,11 +3,12 @@ Creative Coding Syllabus &amp; Class repo
 
 * **Katherine Bennett, Visiting Assistant Professor**
 * **Email:Katherine.Bennett@nyu.edu** 
+* [Slack:](https://creativecoding-c-fa16.slack.com/) https://creativecoding-c-fa16.slack.com/
 * **Office Hours: Tues + Thur 4:20-6:30pm, otherwise by appointment** 
-* **Office Location: NYU Media and Games Network, 2 Metrotech Center Room XX**
+* **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 881**
 
 ## Creative Coding: An Intro to Creative Coding
-2 Metrotech Center Room 811
+2 Metrotech Center Room 816
 2:30pm - 4:20pm Tuesday and Thursdays
 
 This course is an introductory programming class, appropriate for students with no programming experience, who are interested in creating interactivity.  Traditionally, introductory programming teaches algorithmic problem-solving, where a sequence of instructions describe the steps necessary to achieve a desired result.  In this course, students are trained to go beyond this sequential thinking - to think concurrently and modularly.  By its end, students are empowered to write and read code for creating interactivity including: event-driven creative applications, interactive installations,  graphical user interfaces, networked video games and user interfaces.  Interactivity will be introduced and discussed throughout.
@@ -85,14 +86,14 @@ Attendance is mandatory and will be taken at the beginning of every class. Since
 
 • All presentation and critique days are mandatory.  Being absent on critique days, affects your grade for that project as well as your participation grade. Work is still due on due dates, regardless of whether you are in class or not. Critiques can not be made up.
 
-• Contact me in advance if you will not be in class. (Slack Direct message is preferred). Demonstrate time management, communication and respect.
+• Contact me in advance if you will not be in class. ([Slack](https://creativecoding-c-fa16.slack.com/) Direct message is preferred). Demonstrate time management, communication and respect.
 
 • Be on time! Lateness will affect your grade. For every 15 minutes you are late, your participation grade drops.
 
 • Material missed is the responsibility of the student to make up. Speak to other classmates in order to find out what was lectured and discussed. It is your responsibility to go over that material independently. It is your responsibility to contact me if you continue to have difficulty with the information.
 
 ### Contacting Me
-Slack Direct Message is the preferred initial contact. Otherwise you may email me (katherine.bennett@nyu.edu). Email is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. Emails should not be longer than 5 sentences.
+[Slack](https://creativecoding-c-fa16.slack.com/) Direct Message is the preferred initial contact. Otherwise you may email me (katherine.bennett@nyu.edu). Email is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. Emails should not be longer than 5 sentences.
 
 For matters longer than 5 sentences, please email me to make an appointment during office hours. This is the proper way to address longer questions, issues, to ask me about an assignment, review a grade you received, or to discuss other matters. If you send me a long email, I am simply going to respond by asking you to meet with me to resolve the matter. I will not resolve matters over email.
 
@@ -125,7 +126,7 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • A notebook/sketchbook and a pen. At all times.
 
-• [Slack](https://slack.com/)
+• [Slack](https://creativecoding-c-fa16.slack.com/) https://slack.com/
 
 • [Resources](dm113-B_Resources.md)
 

@@ -26,7 +26,7 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • [Nature of Code] (http://natureofcode.com/) NoC
 
-• [Slack](https://slack.com/)
+• [Slack](https://creativecoding-c-fa16.slack.com/) https://slack.com/
 
 ### Required Resources 
 • Github vs Linked in : http://www.ittybittyurl.com/32g6, http://www.ittybittyurl.com/32g7

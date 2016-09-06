@@ -43,10 +43,10 @@
 <td> 3 </td>
 
 	<td valign="top"><a href="week_3_detail_sept_20.md">Sep 20<br><strong>
-		<li> In-class challenge</li>
+		<li> In-class challenge</li> </a>
 		<li>Show + Tell --->  </li>
 		</strong>
-		</a>
+		
 	</td>
 
 
@@ -67,20 +67,21 @@
 
 	<td valign="top"><a href="week_4_detail_sept_27.md">Sep 27<br><strong>
 		<li> In-class challenge</li>
+		<li>matrix transformations </li></a>
 		<li>Show + Tell --->  </li>
-		<li>matrix transformations </li>
+		
 		</strong>
-		</a>
+		
 	</td>
 
 
 
 	<td valign="top"><a href="week_4_detail_sept_27.md">Sep 29<br><strong>
 		<li> Arrays </li>
-		<li> Control  </li>
+		<li> Control  </li> </a>
 		<li>Show + Tell --->  </li>
 		</strong>
-		</a>
+		
 	</td>
 
 </tr>
@@ -91,21 +92,22 @@
 
 	<td valign="top"><a href="week_5_detail_Oct_4.md">Oct 4<br><strong>
 		<li> In-class challenge</li>
+		<li>matrix transformations </li></a>
 		<li>Show + Tell --->  </li>
-		<li>matrix transformations </li>
+		
 		</strong>
-		</a>
+		
 	</td>
 
 
 	
 	<td valign="top"><a href="week_5_detail_oct_4.md">Oct 6<br><strong>
 		<li> Arrays </li>
-		<li> Control  </li>
+		<li> Control  </li> 	</a>
 		<li>Show + Tell --->  </li>
 		</strong>
 	</td>
-	</a>
+
 </tr>
 
 
@@ -115,10 +117,10 @@
 
 	<td valign="top"><a href="week_6_detail_oct_11.md">Oct 11<br><strong>
 		<li> In-class challenge</li>
+		<li>Objects </li> </a>
 		<li>Show + Tell --->  </li>
-		<li>Objects </li>
 		</strong>
-		</a>
+		
 	</td>
 
 
@@ -138,11 +140,11 @@
 <tr>
 <td> 7 </td>
 
-	<td valign="top"><a href="week_7_detail_oct_18.md">Oct 18<br><strong>OOP: Inheritance + Polymorphism <br>
+	<td valign="top"><a href="week_7_detail_oct_18.md">Oct 18<br><strong>OOP: Inheritance + Polymorphism <br> </a>
 	Show + Tell --->
 		
 				</strong>
-				</a>
+				
 		</td>
 
 
@@ -158,10 +160,10 @@
 <td> 8 </td>
 
 	<td valign="top"><a href="week_8_detail_oct_25.md">Oct 25<br><strong>	<a href = "Exercise_6.mp"> Exercise 6 Due </a> <br>
-		<li> Working with Text</li>
+		<li> Working with Text</li> </a>
 		<li>Show + Tell --->  </li>
 		</strong>
-		</a>
+		
 	</td>
 
 
@@ -181,10 +183,10 @@
 
 	<td valign="top"><a href="week_9_detail_Nov_1.md">Nov 1<br><strong>	<a href = "Exercise_7.mp"> Exercise 7 Due </a> <br>
 		<li> In-class Challenge</li>
-		<li>Pixel Manipulations  </li>
+		<li>Pixel Manipulations  </li> </a>
 		<li>Show + Tell --->  </li>
 		</strong>
-		</a>
+		
 	</td>
 
 

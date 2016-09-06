@@ -12,9 +12,9 @@
 
 <!-- dates -->
 <tr>
-  <td valign="top">8</td>
-  <td valign="top" width="48%"><strong>Oct 25</strong></td>
-  <td valign="top" width="48%"><strong>Oct 27</strong></td>
+  <td valign="top">9</td>
+  <td valign="top" width="48%"><strong>Nov 1</strong></td>
+  <td valign="top" width="48%"><strong>Nov 3</strong></td>
 </tr>
 
 <!-- class -->
@@ -22,19 +22,14 @@
 	<td valign="top">class</td>
 	<!-- day Tues -->
 	<td valign="top" width="48%">
-	<a href = > Exercise 7 Due </a> <br>
-		<li> Pixel Manipulations</li>
-		<li> String Manipulations</li>
-		 
-		<li>Show + Tell  </li>
-		</strong
+	<strong> Exercise 8 Due </strong>
+	API + Data
 	</td>
 	
 
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-	<li> String Manipulations</li>
-	<li>Show + Tell  </li>
+	<li> Round Table for Final Project </li>
 		
 		
 	</td>
@@ -44,15 +39,15 @@
   <td valign="top">read</td>
   	<!-- day Tues -->
   	<td valign="top"> 
-	Learning Processing: Ch. 18	
-		
+		Learning Processing: Ch. 19
+		Prep for Roundtable for Final
 			
 
 	</td>
 
   	<!-- day Thurs -->
   	<td valign="top"> 
-    Learning Processing: Ch. 18
+        See directives from Roundtable
 		
 	
   	</td>
@@ -65,12 +60,12 @@
 
 	<!-- day Tues -->
  	<td valign="top"> 
- 		<a href = > Exercise 8  </a>
+ 		Prep for Round Table
  	</td>
 
   	<!-- day Thurs -->
   	<td valign="top">
-		<a href = > Exercise 8  </a>
+		Work on Final Project: Pseudo code + Initial steps + directives from round table 
   	</td>
   	
 </tr>

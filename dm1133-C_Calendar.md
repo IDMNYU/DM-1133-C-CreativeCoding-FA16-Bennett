@@ -8,8 +8,8 @@
 
 <tr>
 <th width="4%">Wk </th> 
-<th width="48%"> Tuesdays (Due the Date Listed)</th> 
-<th width="48%"> Thursday (Due the Date Listed)</th> 
+<th width="48%"> Tuesdays (To Be Done on the Date Listed)</th> 
+<th width="48%"> Thursday (To Be Done on the Date Listed)</th> 
 </tr>
 
 
@@ -159,8 +159,8 @@
 <tr>
 <td> 8 </td>
 
-	<td valign="top"><a href="week_8_detail_Oct_25.md">Oct 25<br><strong>	
-		<li> String Manipulations</li>
+	<td valign="top"><a href="week_8_detail_Oct_25.md">Oct 25<br><strong>	<strong> Pixel Manipulations </strong>
+		
 		 </a> 
 		<li>Show + Tell --->  </li>
 		<a href = "Exercise_7.mp"> Exercise 7 Due </a> <br>
@@ -170,8 +170,8 @@
 
 
 	
-	<td valign="top"><a href="week_8_detail_Oct_25.md">Oct 27<br><strong>
-		<strong> In-class Challenge </strong>
+	<td valign="top"><a href="week_8_detail_Oct_25.md">Oct 27<br><strong><li> String Manipulations</li>
+		
 		
 		<li></li>
 		
@@ -185,14 +185,15 @@
 <td> 9 </td>
 
 	<td valign="top"><a href="week_9_detail_Nov_1.md">Nov 1<br><strong>	
-		<li>API's  </li></strong>
-		
+		<li>API's  </li></strong></a>
+		<strong> <a href = "Exercise_8.mp"> Exercise 8 Due </a> </strong>
+	
 	</td>
 
 
 	
 	<td valign="top"><a href="week_9_detail_Nov_1.md">Nov 3<br><strong>
-		<a href = "Exercise_8.mp"> Exercise 8 Due </a> <br>
+		 <br>
 		<li> Round Table for Final Project </li>
 		<li></li>
 		</strong>
@@ -205,7 +206,7 @@
 <tr>
 <td> 10 </td>
 
-	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 8<br><strong>	
+	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 8<br><strong>	Vectors
 		</strong>
 		
 	</td>
@@ -213,7 +214,7 @@
 
 	
 	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 10<br><strong>
-		
+		Vectors + forces
 		
 		</strong>
 	</td>
@@ -225,14 +226,15 @@
 <tr>
 <td> 11 </td>
 
-	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 15<br><strong>	
+	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 15<br><strong>	 Particle Systems
 		</strong>
 		</a>
 	</td>
 
 
 	
-	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 17<br><strong>
+	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 17<br><strong> Final Project working Prototype Due <br>
+	Topics by Request
 		<li> </li>
 		
 		</strong>
@@ -246,7 +248,7 @@
 
 	<td valign="top">Nov 22<br>
 	<strong>	
-		
+		Topics by Request
 		</strong>
 		
 	</td>
@@ -260,8 +262,10 @@
 
 
 <tr>	
-<td> 12 </td>
+<td> 13 </td>
 	<td valign="top">Nov 29<br><strong>
+	Final Project Beta Due <br>
+	Topics by Request
 		<li> </li>
 		
 		</strong>
@@ -269,6 +273,7 @@
 
 
 	<td valign="top">Dec 1<br><strong>
+	Topics by Request
 		<li> </li>
 		
 		</strong>
@@ -278,8 +283,10 @@
 
 
 <tr>	
-<td> 13 </td>
+<td> 14 </td>
 	<td valign="top">Dec 6<br><strong>
+	Final Exam
+	Topics by Request
 		<li> </li>
 		
 		</strong>
@@ -287,6 +294,7 @@
 
 
 	<td valign="top">Dec 8<br><strong>
+	Final Project Presentations
 		<li> </li>
 		
 		</strong>
@@ -302,14 +310,16 @@
 <td> 15 </td>
 	<td valign="top">Dec 20<br><strong>
 		<li> </li>
-		
+		Not meeting on campus
+		Turn in Materials 
 		</strong>
 	</td>
 
 
 	<td valign="top">Dec 22<br><strong>
 		<li> </li>
-		
+		Not meeting on campus
+		Turn in Materials
 		</strong>
 	</td>
 	

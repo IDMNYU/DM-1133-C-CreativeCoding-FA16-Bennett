@@ -44,7 +44,7 @@
   	<!-- day Tues -->
   	<td valign="top"> 
 	Learning Processing: Ch. 17
-		
+	Generative Design: P.3
 			
 
 	</td>
@@ -52,6 +52,7 @@
   	<!-- day Thurs -->
   	<td valign="top"> 
   	Learning Processing: Ch. 15
+  	Generative Design: P.4
 		
 	
   	</td>

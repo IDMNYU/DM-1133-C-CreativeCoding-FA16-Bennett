@@ -12,9 +12,9 @@
 
 <!-- dates -->
 <tr>
-  <td valign="top">1</td>
-  <td valign="top" width="48%"><strong>Sep 6</strong></td>
-  <td valign="top" width="48%"><strong>Sep 8</strong></td>
+  <td valign="top">5</td>
+  <td valign="top" width="48%"><strong>Oct 4</strong></td>
+  <td valign="top" width="48%"><strong>Oct 6</strong></td>
 </tr>
 
 <!-- class -->
@@ -38,7 +38,7 @@
   <td valign="top">read</td>
   	<!-- day Tues -->
   	<td valign="top"> 
-		
+	Learning Processsing: Ch. 10
 		
 			
 
@@ -46,7 +46,7 @@
 
   	<!-- day Thurs -->
   	<td valign="top"> 
-  
+  	Learning Processsing: Ch. 11, 8
 		
 	
   	</td>
@@ -55,17 +55,20 @@
 
  <!-- do -->
 <tr>
-  <td valign="top">do</td>
+  <td valign = "top">do</td>
 
 	<!-- day Tues -->
- 	<td valign="top"> 
- 		
+ 	<td valign = "top"> 
+ 		<a href = "Project_1.md"> Work on Project 1 </a> <br>
+ 		Push your progress to your GitHub repo and put in a report/issue
  	</td>
 
   	<!-- day Thurs -->
-  	<td valign="top">
-		
+  	<td valign = "top">
+		<a href = "Project_1.md"> Work on Project 1 </a> <br>
+		Push your progress to your GitHub repo and put in a report/issue
   	</td>
   	
 </tr>
+
 </table>

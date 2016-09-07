@@ -393,9 +393,9 @@ Faculty can provide course accommodations/modifications only after receipt of an
 
 ### [Calendar](dm1133-C_Calendar.md)
 
-### [Project 1](dm1133-C_Project_1.md)
+### [Project 1](Project_1.md)
 
-### [Final Project](dm1133-C_Final_Project.md)
+### [Final Project](Final_Project.md)
 
 ### [Show and Tell](dm1133-C_ShowAndTell.md)
 

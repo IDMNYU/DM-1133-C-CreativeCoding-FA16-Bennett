@@ -3,7 +3,8 @@
 * **Katherine Bennett, Visiting Assistant Professor**
 * **Email:Katherine.Bennett@nyu.edu** 
 * **Office Hours: Tues + Thur 4:20-6pm, otherwise by appointment** 
-* **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 884
+* **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 884**
+
 ## Final Project: Choice 
 
 Option 1- Persuasion: Choose a current event, news item, or issue that you feel strongly about and make a piece that addressees it.  Think of it as an interactive, algorithmic documentary.    The emphasis of this project is using code to be persuasive.  How can you convey a point of view in using procedural generation and interactivity?

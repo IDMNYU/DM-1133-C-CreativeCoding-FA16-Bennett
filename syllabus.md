@@ -303,7 +303,7 @@ Work that is turned in after class but still on the due date get's 1/3 letter gr
 
 Assignments that are not submitted will receive a "0". Please realize that a "0" mark is a fantastic way to tank your grade.
 
-You have 1 "get out of jail" pass for 1 exercise. That exercise will be omitted from your overall "Exercises" Grade. If you complete all the exercies and do not use your get-out-of-jail pass, the extra exercise will be considered extra credit for your "Exercise" Grade.
+You have 2 "get out of jail" pass for 1 exercise. That exercise will be omitted from your overall "Exercises" Grade. If you complete all the exercies and do not use your get-out-of-jail pass, the extra exercise will be considered extra credit for your "Exercise" Grade.
 
 
 #### The numerical breakdown for letter grades is as follows:
@@ -393,11 +393,13 @@ Faculty can provide course accommodations/modifications only after receipt of an
 
 ### [Calendar](dm1133-C_Calendar.md)
 
-### [Assignments](dm1133-C_Assignments.md)
+### [Project 1](dm1133-C_Project_1.md)
+
+### [Final Project](dm1133-C_Final_Project.md)
 
 ### [Show and Tell](dm1133-C_ShowAndTell.md)
 
-### [Resources](dm113-C_Resources.md)
+### [Resources](dm1133-C_Resources.md)
 
 
 

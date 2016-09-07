@@ -2,6 +2,8 @@ Exercise 6
 
 Take one of your earlier exercises, and incorprate Object Orientated Programming to it.
 
+Due Week 7 Oct 18
+
 Must haves:
 
 - Classes that can make unique instances of a class through the constructor method

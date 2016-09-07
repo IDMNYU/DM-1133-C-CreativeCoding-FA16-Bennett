@@ -16,6 +16,8 @@ This book is available for purchase in the NYU bookstore, and will be physically
 • [Generative Design by Bohnacker, GroB, Laub & Lazzeroni](http://www.generative-gestaltung.de/about) ISBN-13: 978-1616890773 GD
 This book is available for purchase in the NYU bookstore, and will be on reserve at the NYU School of Engineering library. You can check the status of the book [here](http://library.nyu.edu/)
 
+• [Getting Started with P5.js](https://p5js.org/books/)
+
 • [Processing] (https://processing.org/download/)
 
 • [P5.js](http://p5js.org/download/) Download P5.js complete

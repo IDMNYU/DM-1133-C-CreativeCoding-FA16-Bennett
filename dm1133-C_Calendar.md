@@ -8,8 +8,8 @@
 
 <tr>
 <th width="4%">Wk </th> 
-<th width="48%"> Tuesdays (To Be Done on the Date Listed)</th> 
-<th width="48%"> Thursday (To Be Done on the Date Listed)</th> 
+<th width="48%"> Tuesdays (Assigned on the Date Listed;)</th> 
+<th width="48%"> Thursday (Assigned on the Date Listed)</th> 
 </tr>
 
 
@@ -236,7 +236,7 @@
 
 
 	
-	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 17<br><strong> Final Project working Prototype Due <br>
+	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 17<br><strong> <a href = "Exercise_9.md"> Exercise 9 Due </a> <br>
 	Topics by Request </a>
 		<li> </li>
 		<br> 
@@ -251,7 +251,7 @@
 <td> 12 </td>
 
 	<td valign="top">Nov 22<br>
-	<strong>	
+	<strong>	Final Project working Prototype Due <br>
 		Topics by Request
 		<br> 
 		Show & Tell --->

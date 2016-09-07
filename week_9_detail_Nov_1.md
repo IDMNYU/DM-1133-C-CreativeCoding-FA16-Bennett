@@ -22,13 +22,13 @@
 	<td valign="top">class</td>
 	<!-- day Tues -->
 	<td valign="top" width="48%">
-	<strong> Exercise 8 Due </strong>
 	API + Data
 	</td>
 	
 
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
+	<strong> <a href = "Exercise_8.mp"> Exercise 8 Due </a> </strong>
 	<li> Round Table for Final Project </li>
 		
 		

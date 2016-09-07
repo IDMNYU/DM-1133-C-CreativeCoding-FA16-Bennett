@@ -22,7 +22,7 @@
 	<td valign="top">class</td>
 	<!-- day Tues -->
 	<td valign="top" width="48%">
-	<a href = > Exercise 7 Due </a> <br>
+	
 		<li> Pixel Manipulations</li>
 		<li> String Manipulations</li>
 		 
@@ -33,6 +33,7 @@
 
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
+	<a href = "Exercise_7.md"> Exercise 7 Due </a> <br>
 	<li> String Manipulations</li>
 	<li>Show + Tell  </li>
 		
@@ -65,12 +66,14 @@
 
 	<!-- day Tues -->
  	<td valign="top"> 
- 		<a href = > Exercise 8  </a>
+ 		<a href = "Exercise_8.md"> Work on Exercise 8  </a>
+ 		Prep for Roundtable for Final
  	</td>
 
   	<!-- day Thurs -->
   	<td valign="top">
-		<a href = > Exercise 8  </a>
+		<a href = "Exercise_8.md"> Work on Exercise 8  </a>
+		Prep for Roundtable for Final
   	</td>
   	
 </tr>

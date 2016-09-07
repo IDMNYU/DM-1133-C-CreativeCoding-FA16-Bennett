@@ -92,6 +92,8 @@ Attendance is mandatory and will be taken at the beginning of every class. Since
 
 • Material missed is the responsibility of the student to make up. Speak to other classmates in order to find out what was lectured and discussed. It is your responsibility to go over that material independently. It is your responsibility to contact me if you continue to have difficulty with the information.
 
+• If you have some extenuating need to be outside of class (special doctor's appointment, religious observations, etc etc), please contact Judith Simonsen at (Js6244@nyu.edu, 646.997.3046). She is the Coordinator of Student Advocacy and Compliance.  
+
 ### Contacting Me
 [Slack](https://creativecoding-c-fa16.slack.com/) Direct Message is the preferred initial contact. Otherwise you may email me (katherine.bennett@nyu.edu). Email is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. Emails should not be longer than 5 sentences.
 

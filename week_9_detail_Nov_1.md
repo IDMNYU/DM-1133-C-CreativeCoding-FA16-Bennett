@@ -28,7 +28,7 @@
 
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-	<strong> <a href = "Exercise_8.mp"> Exercise 8 Due </a> </strong>
+	<strong> <a href = "Exercise_8.md"> Exercise 8 Due </a> </strong>
 	<li> Round Table for Final Project </li>
 		
 		
@@ -47,7 +47,7 @@
 
   	<!-- day Thurs -->
   	<td valign="top"> 
-  		<a href = "http://lifedev.net/2008/07/programmer-creativity-boost/"> Programmer Creativity Boost </a>
+  		<a href = "http://lifedev.net/2008/07/programmer-creativity-boost/"> Programmer Creativity Boost </a> <br>
         See directives from Roundtable
 		
 	

@@ -163,7 +163,7 @@
 		
 		 </a> 
 		<li>Show + Tell --->  </li>
-		<a href = "Exercise_7.mp"> Exercise 7 Due </a> <br>
+		<a href = "Exercise_7.md"> Exercise 7 Due </a> <br>
 		</strong>
 		
 	</td>
@@ -186,7 +186,7 @@
 
 	<td valign="top"><a href="week_9_detail_Nov_1.md">Nov 1<br><strong>	
 		<li>API's  </li></strong></a>
-		<strong> <a href = "Exercise_8.mp"> Exercise 8 Due </a> </strong>
+		<strong> <a href = "Exercise_8.md"> Exercise 8 Due </a> </strong>
 	
 	</td>
 

@@ -11,7 +11,7 @@ Creative Coding Syllabus &amp; Class repo
 2 Metrotech Center Room 816
 2:30pm - 4:20pm Tuesday and Thursdays
 
-This course is an introductory programming class, appropriate for students with no programming experience, who are interested in creating interactivity.  Traditionally, introductory programming teaches algorithmic problem-solving, where a sequence of instructions describe the steps necessary to achieve a desired result.  In this course, students are trained to go beyond this sequential thinking - to think concurrently and modularly.  By its end, students are empowered to write and read code for creating interactivity including: event-driven creative applications, interactive installations,  graphical user interfaces, networked video games and user interfaces.  Interactivity will be introduced and discussed throughout.
+This course is an introductory programming class, appropriate for students with no programming experience, who are interested in creating interactivity.  Traditionally, introductory programming teaches algorithmic problem-solving, where a sequence of instructions describe the steps necessary to achieve a desired result.  In this course, students are trained to go beyond this sequential thinking - to think concurrently and modularly.  By its end, students are empowered to write and read code for creating interactivity including: event-driven creative applications, interactive installations,  graphical user interfaces, games and user interfaces.  Interactivity will be introduced and discussed throughout.
 
 # Program Goals
 
@@ -35,12 +35,13 @@ This course reinforces the IDM Program goals by
 
 Assessment will occur by reviewing weekly coding assignments & challenges, project milestones, and final projects. The course is cumulative.  Please see the Grading Section for specific grade breakdown, calendar for due dates, and assignments for briefs. 
 
-Students will evaluate their own progressed in a course in two ways: 1) A course evaluation form, which will be developed based on the course’s individual objectives. 2) Students will participate in a self reflection assignment due Week 7 (Oct 20) & Week 14  (Dec 8) or as otherwise noted. This written evaluation is worth 15 points and to be turned into me as a separate document.
+Students will evaluate their own progressed in a course in two ways: 1) A course evaluation form, which will be developed based on the course’s individual objectives. 2) Students will participate in a self reflection assignment due Week 7 (Oct 16) & Week 15  (Dec 20) or as otherwise noted. This written evaluation is worth 15 points and to be turned into me as a separate document.
 
 • Critically analyze/evaluate how much time was spent learning syntax & structure, programming concepts vs. actually programming, and how does this reflect on the final quality of your end result. 
 
 • Comment on your successes and frustrations with Processing and P5.js.
 
+Week 15 only: 
 • Compare and contrast OOP versus Procedural Programming
 
 ### Course Requirements

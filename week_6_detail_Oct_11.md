@@ -65,13 +65,12 @@
 
 	<!-- day Tues -->
  	<td valign="top">
-		<a href = "Project_1.md"> Work on Project 1 </a> <br>
-		Push your progress to your GitHub repo and put in a report/issue
+		TBD
   	</td>
 
   	<!-- day Thurs -->
   	<td valign ="top">
-  	<a href = "Exercise_6.md">Begin working on Exercise 6. <br> Push your Progress to gitHub. Flag issues, help and quesitons. </a>
+  	<a href = "Exercise_6.md">Begin working on Exercise 6. </a> <br> Push your Progress to gitHub. Flag issues, help and questions. 
 		
   	</td>
   	

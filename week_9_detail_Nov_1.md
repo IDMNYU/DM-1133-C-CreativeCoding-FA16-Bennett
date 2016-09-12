@@ -40,7 +40,7 @@
   	<!-- day Tues -->
   	<td valign="top"> 
 		Learning Processing: Ch. 19
-		Prep for Roundtable for Final
+		<a href = "RoundTable.md">Prep for Roundtable for Final</a>
 			
 
 	</td>
@@ -48,7 +48,7 @@
   	<!-- day Thurs -->
   	<td valign="top"> 
   		<a href = "http://lifedev.net/2008/07/programmer-creativity-boost/"> Programmer Creativity Boost </a> <br>
-        See directives from Roundtable
+        <a href = "RoundTable.md">See directives from Roundtable</a>
 		
 	
   	</td>
@@ -61,7 +61,7 @@
 
 	<!-- day Tues -->
  	<td valign="top"> 
- 		Prep for Round Table
+ 		<a href = "RoundTable.md">Prep for Round Table</a>
  	</td>
 
   	<!-- day Thurs -->

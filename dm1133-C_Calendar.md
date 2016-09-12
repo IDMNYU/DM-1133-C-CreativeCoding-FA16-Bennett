@@ -2,14 +2,14 @@
 ##### Fall 2016 • Katherine Bennett • Tuesdays & Thursdays • 2:30-4:20pm 
 
 ## CALENDAR Overview
-
+### Calendar & Weekly Detail is subject to change at any time. Check back regularly.
 
 <table>
 
 <tr>
 <th width="4%">Wk </th> 
-<th width="48%"> Tuesdays (Assigned on the Date Listed;)</th> 
-<th width="48%"> Thursday (Assigned on the Date Listed)</th> 
+<th width="48%"> Tuesdays </th> 
+<th width="48%"> Thursday </th> 
 </tr>
 
 

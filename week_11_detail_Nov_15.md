@@ -28,7 +28,7 @@
 
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-	<strong> <a href = "Exercise_9"> Exercise 9 Due </a>
+	<strong> <a href = "Exercise_9"> Exercise 9 Due </a> <br>
 	Topics by Request
 		
 		

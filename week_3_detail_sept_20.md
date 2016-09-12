@@ -43,7 +43,7 @@
 <tr>
   <td valign="top">read</td>
   	<!-- day Tues -->
-  	<td valign="top"> <a href = "https://p5js.org/get-started/">etting Started in P5.js </a>
+  	<td valign="top"> <a href = "https://p5js.org/get-started/">Getting Started in P5.js </a> <br>
   	<a href = "https://github.com/processing/p5.js/wiki/Processing-transition"> Processing transition tutorial </a>
 	</td>
 

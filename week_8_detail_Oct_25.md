@@ -66,13 +66,13 @@
 
 	<!-- day Tues -->
  	<td valign="top"> 
- 		<a href = "Exercise_8.md"> Work on Exercise 8  </a>
+ 		<a href = "Exercise_8.md"> Work on Exercise 8  </a> <br>
  		Prep for Roundtable for Final
  	</td>
 
   	<!-- day Thurs -->
   	<td valign="top">
-		<a href = "Exercise_8.md"> Work on Exercise 8  </a>
+		<a href = "Exercise_8.md"> Work on Exercise 8  </a> <br>
 		Prep for Roundtable for Final
   	</td>
   	

@@ -32,7 +32,8 @@
 
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-	<strong><li>Working with Images </li> </a>
+	<strong><li>Working with Images </li> </a> <br>
+	<a href = "">MidTerm Assessment DUE  </a>
 		</strong>
 		
 		

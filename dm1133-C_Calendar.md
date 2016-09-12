@@ -193,7 +193,7 @@
 
 	
 	<td valign="top"><a href="week_9_detail_Nov_1.md">Nov 3<br><strong>
-		<li> Round Table for Final Project </li>
+		<a href = "RoundTable.md"><li> Round Table for Final Project </li></a>
 		<li></li>
 		</strong>
 	</td>

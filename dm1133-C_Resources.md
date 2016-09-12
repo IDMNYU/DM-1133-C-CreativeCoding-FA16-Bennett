@@ -1,12 +1,9 @@
-### Resources for DM1133-C Creative Coding
+### Resources for UG-1133-C Creative Coding
 
 * **Katherine Bennett, Visiting Assistant Professor**
 * **Email:Katherine.Bennett@nyu.edu** 
 * **Office Hours: Tues + Thur 4:20-6:00pm, otherwise by appointment** 
 * **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 884**
-
-
-
 
 
 ### Required Course Materials
@@ -53,6 +50,7 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • [Tipes on Debugging](https://vimeo.com/channels/debugging)
 
+• [Finished is Better Than Perfect](https://www.youtube.com/watch?v=lRtV-ugIT0k">Finished is better than perfect)
 
 ### Fabulous References and Supporting Resources
 #### Programming (general) and other languages

@@ -2,7 +2,7 @@
 Creative Coding Syllabus &amp; Class repo
 
 * **Katherine Bennett, Visiting Assistant Professor**
-* **Email:Katherine.Bennett@nyu.edu** 
+* **Email: Katherine.Bennett@nyu.edu** 
 * [Slack:](https://creativecoding-c-fa16.slack.com/) https://creativecoding-c-fa16.slack.com/
 * **Office Hours: Tues + Thur 4:20-6:30pm, otherwise by appointment** 
 * **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 881**
@@ -35,11 +35,11 @@ This course reinforces the IDM Program goals by
 
 Students in this course will:
 
-• Understand the basics of creative coding in Java & Javascript (Processing/p5.js).
-• Apply their understanding of digital media to software.
-• Learn best practices for designing software within an event-driven, object-oriented, real time framework.
-• Experiment with different techniques for user input and output, including sensors and non-traditional screens.
-• Propose and develop a complete software experience as a final project.
+• Understand the basics of creative coding in Java & Javascript (Processing/p5.js). <br>
+• Apply their understanding of digital media to software. <br>
+• Learn best practices for designing software within an event-driven, object-oriented, real time framework. <br>
+• Experiment with different techniques for user input and output, including sensors and non-traditional screens. <br>
+• Propose and develop a complete software experience as a final project. <br>
 
 
 
@@ -55,7 +55,7 @@ Students will evaluate their own progressed in a course in two ways: 1) A course
 
 • Comment on your successes and frustrations with Processing and P5.js.
 
-Week 15 only: 
+Week 15 only:  <br>
 • Compare and contrast OOP versus Procedural Programming
 
 ## Course Requirements
@@ -183,7 +183,7 @@ A typical week will aim for the following schedule:
 
 • Projects are not always group projects.
 
-• **Using code found elsewhere** It's super easy to find code online. As tempting as this is, I am going to ask that you write your own code for the first 2/3 of the semester. This will help you grasp and retain the fundamentals. It does help to write the code from the book out, line by line. Code that  is not written by you can not be submitted as a homework assignment, project or pair programming challenge as your own work. 
+• **Using code found elsewhere:** It's super easy to find code online. As tempting as this is, I am going to ask that you write your own code for the first 2/3 of the semester. This will help you grasp and retain the fundamentals. It does help to write the code from the book out, line by line. Code that  is not written by you can not be submitted as a homework assignment, project or pair programming challenge as your own work. 
 
 If you use code from elsewhere (which you will at times), I expect you to site the work and author, as well as to comment each line. In these cases, I am looking for significant modification of the code, for you to enact your own ideas and to experiment heavily. Significant modification means beyond variable name and value changes. Also, not more 40% of your code may be supplied from elsewhere.
 
@@ -204,7 +204,7 @@ Do the follow these steps for each assignment:
 
 ##[Show and Tell](dm1133-C_ShowAndTell.md)
 
-You will be assigned a [Show and Tell presentation date here](dm1133-C_ShowAndTell.md). Please research the assigned artist/designers/firms/pieces/collectives in advance. Each presentation will be about 5-7 minutes long. Be able to address the following, along with *3-4 visual examples of each individual or team's work*: (2 points each)
+You will be assigned a [Show and Tell presentation date here](dm1133-C_ShowAndTell.md). Please research the assigned artist/designers/firms/pieces/collectives in advance. Each presentation will be about 5-7 minutes long. Be able to address the following, along with *3-4 visual examples of each individual or team's work*: 
 
 • What is original/unique about how this artist uses technology? 
 
@@ -212,7 +212,7 @@ You will be assigned a [Show and Tell presentation date here](dm1133-C_ShowAndTe
 
 • Why is it necessary that the artist use code?  (ie: particularly if it’s non-interactive, could it have been achieved with traditional or linear media?)
 
-• Your presentation must be prepared and professional. DO NOT READ OFF YOUR SLIDES. Show the work. Discuss the work.
+• Your presentation must be prepared and professional. DO NOT READ OFF YOUR SLIDES. In fact, don't use text at all. Show the work. Discuss the work.
 
 
 ### Tips for your presentation
@@ -253,7 +253,7 @@ A letter grade of "C" is an average grade. Average is not bad. It means average.
 
 Please read examples of each assessment point below to get an idea of my expectations. Note that a "B" is between Satisificatory and Superior.
 
-#### Principles:
+### Principles:
 
 • Superior - A - Your work shows evidence and understanding of programming concepts discussed in readings, lectures, and exercises, as you bend them to your will.
 
@@ -262,7 +262,7 @@ Please read examples of each assessment point below to get an idea of my expecta
 • Unexceptable - D/F - Your work shows some evidence of concepts discussed, but lacks key understanding, confidence, robustness and authority. Aspects are lacking. Reviewing course material is required. Ask questions in class. Manage your time better.
 
 
-### Creativity, Thoughtfulness:
+#### Creativity, Thoughtfulness:
 
 • Superior - A - Your work demonstrates your personality and a great depth of engagement with the material. It’s extremely evident that you are thinking, exploring, playing and taking risks. You are creating wonderful experiences.
 
@@ -272,7 +272,7 @@ Please read examples of each assessment point below to get an idea of my expecta
 
 
 
-### Craft:
+#### Craft:
 
 • Superior - A - Your work shows delicate care and consideration to presentation and professionalism. You code is neat, clean, commented and structured. Your friends consider you “Type A.” Your style is evident.
 
@@ -281,10 +281,10 @@ Please read examples of each assessment point below to get an idea of my expecta
 • Unexceptable - D/F - Your work is rushed and looks like it was done on your train-ride in or the night before. Make your work something you are proud of. You are here to build your portfolio after all, aren’t you?
 
 
-## Participation will be based upon: Professionalism, Engagement, and Improvement
+### Participation will be based upon: Professionalism, Engagement, and Improvement
 
 
-### Professionalism:
+#### Professionalism:
 
 • Superior - A - Always arrives on time; assignments turned in properly and on time; respectful of others in class and gives feedback appropriately.
 
@@ -294,7 +294,7 @@ Please read examples of each assessment point below to get an idea of my expecta
 
 
 
-### Engagement:
+#### Engagement:
 
 • Superior - A - Always contributes appropriately to class discussion; frequently offers to demonstrate technique; shows leadership in group projects.
 
@@ -304,7 +304,7 @@ Please read examples of each assessment point below to get an idea of my expecta
 
 
 
-### Improvement:
+#### Improvement:
 
 • Superior - A - Shows an exceptional and growing understanding of technique; builds on previous lessons; accepts critique and makes proper adjustments.
 

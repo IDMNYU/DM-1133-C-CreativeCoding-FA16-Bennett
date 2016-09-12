@@ -138,7 +138,7 @@
 <td> 7 </td>
 
 	<td valign="top"><a href="week_7_detail_Oct_18.md">Oct 18<br><strong>
-		
+		Mid-Term Self Assessment Due </strong>
 		<li> Working with Text</li>
 		 </a>
 		 <a href = "Exercise_6.md"> Exercise 6 Due <br></a>
@@ -324,7 +324,8 @@
 	<td valign="top">Dec 20<br><strong>
 		<li> </li>
 		Not meeting on campus<br>
-		Turn in Materials 
+		Turn in Materials <br>
+		<a href = "">Final Self Assessment DUE  </a>
 		</strong>
 	</td>
 

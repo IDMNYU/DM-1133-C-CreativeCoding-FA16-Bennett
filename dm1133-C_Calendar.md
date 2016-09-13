@@ -33,7 +33,7 @@
 
 	<td valign="top"><a href="week_2_detail_sept_13.md">Sep 15<br><strong>Control Statements<br>Logical Operators</strong></a> <br>
 	<strong>EXERCISE 2 DUE</strong> <br>
-	<strong>Show + Tell --->  </strong>
+	<strong>Show + Tell ---> Sawyer  </strong>
 	</td>
 
 </tr>
@@ -44,7 +44,8 @@
 
 	<td valign="top"><a href="week_3_detail_sept_20.md">Sep 20<br><strong>
 		<li> In-class challenge</li> </a>
-		<li>Show + Tell --->  </li>
+		<li>Show + Tell ---> Lucas </li> <br>
+		Show + Tell ---> Sawyer  
 		</strong>
 		
 	</td>
@@ -68,7 +69,7 @@
 	<td valign="top"><a href="week_4_detail_sept_27.md">Sep 27<br><strong>
 		<li> In-class challenge</li>
 		<li>matrix transformations </li></a>
-		<li>Show + Tell --->  </li>
+		<li>Show + Tell ---> Emily </li>
 		
 		</strong>
 		
@@ -79,7 +80,7 @@
 	<td valign="top"><a href="week_4_detail_sept_27.md">Sep 29<br><strong>
 		<li> Arrays </li>
 		<li> Control  </li> </a>
-		<li>Show + Tell --->  </li>
+		<li>Show + Tell --->  Drona </li>
 		</strong>
 		
 	</td>
@@ -93,7 +94,7 @@
 	<td valign="top"><a href="week_5_detail_Oct_4.md">Oct 4<br><strong>
 		<li> In-class challenge</li>
 		<li>Objects </li> </a>
-		<li>Show + Tell --->  </li>
+		<li>Show + Tell ---> Samir </li>
 		
 		</strong>
 		
@@ -116,7 +117,7 @@
 
 	<td valign="top"><a href="week_6_detail_Oct_11.md">Oct 11<br><strong>
 		OOP: Inheritance + Polymorphism <br> </a>
-	Show + Tell --->
+	Show + Tell ---> Johanna
 		</strong>
 		
 	</td>
@@ -142,7 +143,7 @@
 		<li> Working with Text</li>
 		 </a>
 		 <a href = "Exercise_6.md"> Exercise 6 Due <br></a>
-		<li>Show + Tell --->  </li>
+		<li>Show + Tell --->  Jarrett</li>
 				</strong>
 				
 		</td>
@@ -162,7 +163,7 @@
 	<td valign="top"><a href="week_8_detail_Oct_25.md">Oct 25<br><strong>	<strong> Pixel Manipulations </strong>
 		
 		 </a> 
-		<li>Show + Tell --->  </li>
+		<li>Show + Tell ---> Yahya </li>
 		<a href = "Exercise_7.md"> Exercise 7 Due </a> <br>
 		</strong>
 		
@@ -207,7 +208,8 @@
 
 	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 8<br><strong>	Vectors
 		</strong> <br> </a>
-		Show & Tell ---> 
+		Show & Tell ---> Bonnie <br>
+		Show & Tell ---> Ariana
 
 		
 	</td>
@@ -215,8 +217,9 @@
 
 	
 	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 10<br><strong>
-		Vectors + forces
-		
+		Vectors + forces <br>
+		Show & Tell ---> Miranda <br>
+		Show & Tell ---> Amy
 		</strong>
 	</td>
 	</a>
@@ -231,7 +234,7 @@
 		
 		</a>
 		<br> 
-		Show & Tell ---> </strong>
+		Show & Tell ---> Yixi</strong>
 	</td>
 
 
@@ -240,7 +243,7 @@
 	Topics by Request </a>
 		<li> </li>
 		<br> 
-		Show & Tell --->
+		Show & Tell ---> Alice
 		</strong>
 	</td>
 	</a>
@@ -254,8 +257,8 @@
 	<strong>	Final Project working Prototype Due <br>
 		Topics by Request
 		<br> 
-		Show & Tell --->
-		
+		Show & Tell ---> Naz <br>
+		Show & Tell ---> David
 		</strong>
 		
 	</td>
@@ -274,7 +277,7 @@
 	Final Project Beta Due <br>
 	Topics by Request
 	<br> 
-		Show & Tell --->
+		Show & Tell ---> Chris
 		</strong>
 		<li> </li>
 
@@ -285,7 +288,8 @@
 
 	<td valign="top">Dec 1<br><strong>
 	Topics by Request <br>
-	Show & Tell --->
+	Show & Tell ---> Joanna <br>
+	Show & Tell ---> Joyce
 		</strong>
 		<li> </li>
 		

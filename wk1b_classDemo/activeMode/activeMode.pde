@@ -39,8 +39,8 @@ void draw() {
   fill(0, 0, 255); //blue
   ellipse(width/2, height/2, 50, 200);
 
-
-  /*  // uncomment to see now fly above both ellipse
+ /*
+   // uncomment to see now fly above both ellipse
    // since it's the last one drawn, it's on top of
    // both. But we only see one (versus two (including
    // the one above) because the 2 are drawn on top of one 

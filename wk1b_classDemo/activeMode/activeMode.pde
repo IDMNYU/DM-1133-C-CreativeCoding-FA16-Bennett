@@ -1,3 +1,4 @@
+int valX = 0;
 
 // this only runs once
 void setup() {
@@ -39,7 +40,7 @@ void draw() {
   fill(0, 0, 255); //blue
   ellipse(width/2, height/2, 50, 200);
 
- /*
+  /*
    // uncomment to see now fly above both ellipse
    // since it's the last one drawn, it's on top of
    // both. But we only see one (versus two (including
@@ -49,15 +50,26 @@ void draw() {
    fill(0);
    ellipse(mouseX, mouseY, 30, 30);
    */
-
+  //int valX = 0;
   if (mousePressed) {  // if what ever is inside the () is true, then we
     // will execute what is between the {}
     //background(0);
+
     background(200, 127, 12);
+    //valX++;
+    
+    
+    
   }
   
-  if(keyPressed){
-    if(key == 32){
+  /*
+  strokeWeight(2);
+  stroke(255, 0, 0);
+  noFill();
+  ellipse(valX, height/2, 40, 40);
+*/
+  if (keyPressed) {
+    if (key == 32) {
       strokeWeight(1);
       stroke(169, 38, 229);
       line(0, mouseY, width, mouseY);
@@ -66,6 +78,4 @@ void draw() {
   }
 
   println(mouseX);
-  
-  
 }

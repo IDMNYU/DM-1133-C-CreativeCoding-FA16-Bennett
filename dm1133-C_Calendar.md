@@ -45,7 +45,7 @@
 	<td valign="top"><a href="week_3_detail_sept_20.md">Sep 20<br><strong>
 		<li> In-class challenge</li> </a>
 		<li>Show + Tell ---> Lucas </li> <br>
-		Show + Tell ---> Sawyer  
+		
 		</strong>
 		
 	</td>

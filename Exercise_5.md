@@ -23,6 +23,8 @@ Make sure to attribute the original code to the students and to comment each lin
 
 I want to see you both work together on this assignment. Not one person pulling all of the weight. Not copying each other's work. You both must hand in the first part of the assignment individually and those files must be different. And different beyond variable names and locations. They can be similar, but they must be different and unique.
 
+I'd suggest working together - either physically in the same space, or remotely in the same cyber space. Start with a direct message to them on slack to coordinate.
+
 Check out the demo code whipped up, using Amy's monster. Note that to effect the coordinates of the monster, I must apply a variable to each of the x coordinates and each of the y coordinates for the graphics.
 
 Requirements:

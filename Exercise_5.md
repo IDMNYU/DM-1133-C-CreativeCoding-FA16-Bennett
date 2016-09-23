@@ -37,6 +37,8 @@ Focus on those things above. Then work on movement + interactivity. Work in this
 
 Below is Amy's code. You can check out [her repo](https://github.com/asollee/Exercise-1) for the original formate if this is too confusing. Note that this is in Processing, not P5 as you are required to do. This is a way to tackle functions. You could do step 2, then step 1 or step 1 then step 2. Which ever works for you.
 
+I'd copy and paste it into Processing, versus reading it here.
+
 
 
 void setup () {

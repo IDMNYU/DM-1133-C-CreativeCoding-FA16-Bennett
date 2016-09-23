@@ -23,14 +23,14 @@ function setup() {
 }
 
 function draw() {
-  var answer;
+  var answer;  // local variable. only known in the draw loop
   
   if(mouseIsPressed){
     answer = diceRoll(1);
     console.log(answer);
   }
 
-  if(answer < .30){
+  if(answer <= .30){
     //console.log("taupe");
     currentC = taupe;
     x+=10;
@@ -54,13 +54,12 @@ function draw() {
     y +=10;
   }
 
- checker(x, y);
- //var coords = checker(x, y);
+ //checker(x, y);
+ var coords = checker(x, y); // var coords is an array
  background(currentC);
- //guy(coords[0], coords[1], currentC);
- guy(x, y, currentC);
-
-
+ guy(coords[0], coords[1], currentC);
+ //guy(x, y, currentC);
+ 
 
 }
 
@@ -84,11 +83,11 @@ function checker(lat, long){
     //console.log(long);
   }
  
-  //return [lat, long];
+  return [lat, long]; //this is an array; strut
 }
 
 function guy(a, b, c){
-  var x = a;
+  var x = a;  // local definitions
   var y = b;
   var len = 20;
   fill(previousC);
@@ -104,7 +103,9 @@ function guy(a, b, c){
   //return previousC;
 }
 
-function diceRoll(r1){
+function diceRoll(r1){  // custom defined function
+                        // arugments in p5.js, those thingies passed to functions
+                        // do not need var in front of them
   var choice = random(r1);
   return choice;
 

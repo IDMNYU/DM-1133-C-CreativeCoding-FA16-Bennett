@@ -54,12 +54,14 @@ function draw() {
     y +=10;
   }
 
- //checker(x, y);
+ //checker(x, y); //without returning the lat + long, these
+                  // values do not get updated
+
  var coords = checker(x, y); // var coords is an array
  background(currentC);
  guy(coords[0], coords[1], currentC);
- //guy(x, y, currentC);
- 
+ //guy(x, y, currentC); // x + y aren't updated. :(
+
 
 }
 

@@ -1,6 +1,9 @@
 Project 1
 
-Due Oct 11 --> In class critiques
+**Due Oct 11 --> In class critiques**
+
+**20% of your final grade**
+
 Weekly pushes and changes are expected
 
 Pick an adjective and make a program that illustrates that adjective interactively. You may not use images.  Only drawing functions, meaning mostly stuff found in the ‘graphics’ section.

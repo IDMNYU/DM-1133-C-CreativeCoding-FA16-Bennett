@@ -65,6 +65,7 @@
 
 	<!-- day Tues -->
  	<td valign ="top"> 
+ 	<a href = "Exercise_%.md"> Finish the first part of Exercise 5, if you have not done so with your monster and your partners, with several calls to each, yielding individual monsters </a> <br>
  	<a href = "Project_1.md"> Work on Project 1 </a> <br>
  	pseudocode your project <br>
  	begin coding it <br>

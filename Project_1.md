@@ -1,5 +1,8 @@
 Project 1
 
+Due Oct 11 --> In class critiques
+Weekly pushes and changes are expected
+
 Pick an adjective and make a program that illustrates that adjective interactively. You may not use images.  Only drawing functions, meaning mostly stuff found in the ‘graphics’ section.
 The focus of this project is procedural intensity. How expressive can you be using only lines, shapes, colors?
 

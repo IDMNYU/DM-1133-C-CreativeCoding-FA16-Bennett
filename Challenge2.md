@@ -12,3 +12,6 @@ With your partner, create a new sketch in P5.js.
 	- In this sketch, create a crowd of 9 these monsters - 3 calls each, with each monster being unique. Color, location, scale, composition are a few examples.
 
 	- Explore movement. How can you make it controlled and unique?
+
+
+	

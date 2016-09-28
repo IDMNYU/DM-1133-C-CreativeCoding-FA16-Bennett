@@ -7,6 +7,9 @@ Creative Coding Syllabus &amp; Class repo
 * **Office Hours: Tues + Thur 4:20-6:30pm, otherwise by appointment** 
 * **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 881**
 
+* **GA:Caitlin Sikora cas836@nyu.edu**
+* **Help available on Fridays 1-4pm in the Fishbowl or right around there (MAGNET 845)**
+
 # Creative Coding: An Intro to Creative Coding
 2 Metrotech Center Room 816
 2:30pm - 4:20pm Tuesday and Thursdays

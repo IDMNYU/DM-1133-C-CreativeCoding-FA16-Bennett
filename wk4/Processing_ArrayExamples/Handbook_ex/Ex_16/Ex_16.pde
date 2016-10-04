@@ -1,11 +1,25 @@
+/*
+Examples from
+Processing Handbook
+By Casey Reas and Ben Fry
+
+*/
+
 int num = 50; 
 int[] x = new int[num]; 
 int[] y = new int[num]; 
  
 void setup() { 
-  size(100, 100); 
+  size(800, 800); 
   noStroke();  
   fill(255, 102);
+  
+  /*
+  for(int i = 0; i< x.length; i <++){
+    x[i] = 0;
+    y[i] = 0;
+  }
+  */
 } 
  
 void draw() { 

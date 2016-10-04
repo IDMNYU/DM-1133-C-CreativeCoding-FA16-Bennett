@@ -1,5 +1,6 @@
 int[] data;         // Declare
 data = new int[5];  // Create
+
 data[0] = 19;       // Assign 
 data[1] = 40;
 data[2] = 75;

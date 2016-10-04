@@ -1,4 +1,11 @@
+/*
+Examples from
+Processing Handbook
+By Casey Reas and Ben Fry
+*/
+
 int[] data = new int[5];  // Declare, create 
+// can't change the size. must know the size when creating, esp in java
 
 void setup() { 
   size(100, 100);

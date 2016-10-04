@@ -1,3 +1,9 @@
+/*
+Examples from
+Processing Handbook
+By Casey Reas and Ben Fry
+*/
+
 float[] data = { 19.0, 40.0, 75.0, 76.0, 90.0 }; 
 float[] halfData;
  

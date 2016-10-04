@@ -19,37 +19,38 @@ function draw() {
   fill(taupe);
   rect(width/2 - r_width + r_width/2, height/2 + r_width/2 - r_width, r_width, r_width);
   
-
+/*/
   translate(100, 0); //shift the entire system over to the right by 100.
   fill(magneta);
   rect(width/2 - r_width + r_width/2, height/2 + r_width/2 - r_width, r_width, r_width);
 
-  
-  
+  /*/
+  /*/
   translate(0, 100); // matrix transformations are culumantive
   fill(lime);
   rect(width/2 - r_width + r_width/2, height/2 + r_width/2 - r_width, r_width, r_width);
   //*/
   
-  
+  /*/
   translate(-200, -100);
   fill(rose);
   rect(width/2 - r_width + r_width/2, height/2 + r_width/2 - r_width, r_width, r_width);
+  */
   
-  
-  
+  /*
   translate(0,-100);
   fill(marine, 100);
   //rect(0, 0, 60, 30);
   rect(width/2 - r_width + r_width/2, height/2 + r_width/2 - r_width, r_width, r_width);
   
-  
+  */
 
+/*
   translate(300, -100);
   rotate(radians(45));  // rotation happens in radians. can send degrees 
                         // to radian() + get radians out
                         // rotation happens from (0, 0) that you are at
   fill(prince);   
   rect(width/2 - r_width + r_width/2, height/2 + r_width/2 - r_width, r_width, r_width);
- 
+ */
 }

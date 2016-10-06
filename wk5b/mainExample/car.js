@@ -1,6 +1,7 @@
 
 // this is my class Car
 function Car(tempC, tempXpos, tempYpos, tempXspeed){  // the constructor
+	// global variables for this class
 	this.c = tempC;
 	this.xpos = tempXpos;
 	this.ypos = tempYpos;

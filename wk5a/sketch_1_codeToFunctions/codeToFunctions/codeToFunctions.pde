@@ -24,6 +24,7 @@ void draw() {
   //eye();  /// because inside another function
   
   
+  
 }
 
 void update(){
@@ -56,7 +57,7 @@ void head(int wid, int hei){
   rect(w/2 - 25 + x, w/2 - 105 + y, 60, 1); //mouth
   fill(255);
   triangle(w/2 + 15 + x, w/2 - 90 + y, w/2 + x, w/2-105 + y, w/2 + 30 + x, w/2 - 105 + y); //tooth
-  eye(wanderX, wanderY);
+  eye(wanderX, wanderY, x, y);
   fill(60, 189, 64); //lighter green
   ellipse(w/2 - 50 + x, w/2 - 200 + y, 20, 20); // left antenna point
   ellipse(w/2 + 50 + x, w/2 - 200 + y, 20, 20); // right antenna point
@@ -64,7 +65,9 @@ void head(int wid, int hei){
 }
 
 
-void eye(float wX, float wY){
+void eye(float wX, float wY, float x_, float y_){
+  float x = x_;
+  float y = y_;
     //eye
   fill(193, 255, 64); //greenish yellow
   ellipse(w/2 - 15 + x, w/2 - 120 + y, 15, 15); //left eye

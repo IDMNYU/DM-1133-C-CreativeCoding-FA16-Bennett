@@ -1,32 +1,23 @@
 class Enemy {
   PVector location, velocity, acceleration;
-  
   int bigC, littleC; // ellipse widths
   float max; //max speed
   float angle, radSec, attract;
-
-
+  
   Enemy(int x, int y, float attract) {
     location = new PVector(x, y);
     velocity = new PVector(0, 0);
     bigC= 40;
     littleC = 30;
-    max = 10;
-    
+    max = 10; 
   }
-
   void update(Agent a) {
-    
-    float dx = a.location.x - location.x;
+    float dx = a.location.x - location.x;  // loction is a PVector; associated w/that
+    //PVector location is x + y; Pull out location.x's value
     float dy = a.location.y - location.y;
-    
-    angle = atan2(dy, dx);
+    angle = atan2(dy, dx);  // a do a bit of trig to get the angle
     angle += radians(90);
-    
   }
-
-
-
   void display() {
     noStroke();
     noFill();

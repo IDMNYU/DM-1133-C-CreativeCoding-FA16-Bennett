@@ -15,12 +15,10 @@ class Agent {
   PVector steering = new PVector(0,0);
 
   Agent(int x, int y) {
-
     bigC = 40;
     littleC = 30;
     max = 10;
-    
-    location = new PVector(0, 0);   //
+    location = new PVector(0, 0);   // (x, y)
     velocity = new PVector(0, 0);
     acceleration = new PVector(0, 0);
   }
@@ -48,7 +46,7 @@ class Agent {
   */
   void arrive(PVector target){
     PVector desired = PVector.sub(target, location);
-    float d = desired.mag();
+    float d = desired.mag(); // magnitude isn't a vector. radius. it's a length
     if (d < 100){
       float m = map(d, 0, 100, 0, maxSpeed);
       desired.setMag(m);
@@ -62,7 +60,7 @@ class Agent {
   }
   void seek(PVector target){
     
-    PVector desired = PVector.sub(target, location);
+    PVector desired = PVector.sub(target, location); // creating a new vector called desired
     desired.normalize();  //unit vector
     desired.mult(maxSpeed); // scaling
     PVector steering = PVector.sub(desired, velocity);

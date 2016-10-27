@@ -34,7 +34,7 @@ function draw() {
     textFont(script, 14);
   }
   //textFont(script, 14); // the font I want to use, and the size I want it to be
-  text(myString, 200, 200, 210, 210); // the actual text, x, y coordinates
+  text(myString, 200, 200, 310, 310); // the actual text, x, y coordinates
 
   noStroke();
   stroke(200, 20, 100);

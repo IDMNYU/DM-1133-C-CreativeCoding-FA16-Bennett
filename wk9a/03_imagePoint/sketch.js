@@ -18,6 +18,7 @@ function draw() {
   var loc = (x + (y * bird.width)) * 4;
   
   bird.loadPixels(); // this is going to return an array called pixels
+                    // loads all the pixel data for the image into an array called pixels
   
   var r = bird.pixels[loc   ];
   var g = bird.pixels[loc + 1];

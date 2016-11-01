@@ -41,6 +41,7 @@ function draw() {
   }
   // we've manipulated the pixels, now update them with the new info
   updatePixels();  // this is of our sketch. 
-  fill(255, 0, 0, 30);
-  ellipse(mouseX, mouseY, 50, 50);
+  //fill(255, 0, 0, 30);
+  //fill(255, 30);
+  //ellipse(mouseX, mouseY, 50, 50);
 }

@@ -35,19 +35,20 @@ function draw() {
       // another image appears
       image(skull, width / 2 - skull.width / 2, height / 2 - skull.height / 2);
       count++; // I only increase if the mouse is pressed, as well as in the zone
-      console.log(count);
+      //console.log(count);
     }
   }
   if (count >= 50) {
     background(deadscape, 0, 0);
       fcount++; // going to increase without user input
   }
+  console.log(fcount);
   if (fcount > 200) {
     background(forest, 0, 0);
 
     if (cueBirds === true) {
       console.log('cue birds');
-      birds();
+      birds(); //function
       cueBirds = false; // I turn it off, because I only want to cue the bird creation once
     }
   }

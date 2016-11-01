@@ -5,7 +5,7 @@ var phrase = "Alice was beginning to get very tired of sitting by her sister on 
 var phrasearray = phrase.split(' ');
 
 function preload() {
-  thefont = loadFont('data/font3.otf');
+  thefont = loadFont('data/NexaRustHandmade.otf');
 }
 
 function setup() {

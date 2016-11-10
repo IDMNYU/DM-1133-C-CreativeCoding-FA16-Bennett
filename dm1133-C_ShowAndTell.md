@@ -38,37 +38,44 @@ Sept 20 -  Casey Reas, Zachary Lieberman ---> Lucas
 
 Sept 27 - United Visual Artists, Hellicar & Lewis ---> Emily
 
-Sept 29 - Robert Hodgin - Flight404, Karsten Schmidt ---> Drona
+Sept 29 - 
 
 Oct 4 - Julian Oliver, Moritz Stefaner, Martin Wattenberg ---> Samir
 
-Oct 11 -  Jer Thorpe, Soso Limited ---> Johanna
+Oct 11 -  Jer Thorpe, Soso Limited --->
 
-Oct 18 - Marius Watz & Memo Akten ---> Jarrett
+Oct 18 - Congaz, N-e-r-v-o-u-s-S-y-s-t-e-m ---> 
 
-Oct 25 - Seb Lee-Delisle & Kyle McDonald ---> Yahya
+Oct 25 - 
 
-Nov 8 - Field - http://www.field.io/, Josh Nimoy ---> Bonnie
+Nov 8 - 
 
-Nov 8 - Jurg Lehni, Red Paper Heart   ---> Ariana
+Nov 8 - 
 
-Nov 10 - Amit Pitaru, rAndom International  ---> Miranda
+Nov 10 - 
 
-Nov 10 -  Diato Manabe, Leo Villareal ---> Amy
+Nov 15 -  Seb Lee-Delisle & Kyle McDonald ---> Yahya 
+			Marius Watz & Memo Akten ---> Jarrett
 
-Nov 12 -  Congaz, N-e-r-v-o-u-s-S-y-s-t-e-m ---> Yixi
+Nov 17 -  Field - http://www.field.io/, Josh Nimoy ---> Bonnie
+		Jurg Lehni, Red Paper Heart   ---> Ariana
+		Amit Pitaru, rAndom International  ---> Miranda
 
-Nov 17 - Eno Henze, Dedric Kiefer ---> Alice
+Nov 22 - Eno Henze, Dedric Kiefer ---> Alice
+	Diato Manabe, Leo Villareal ---> Amy
 
-Nov 22 - Karolina Sobecka, Future Cities Lab ---> Naz
+Nov 29 - Karolina Sobecka, Future Cities Lab ---> Naz
+       Robert Hodgin - Flight404, Karsten Schmidt ---> Shane
 		
-Nov 22- Paul Prudence, Moment Factory ---> David
+Dec 1- Lia, Santiago Ortiz (Moebio.com) ---> Joanna
+      Michael Hansmeyer, Waltz Binarie ---> Joyce
 		
-Nov 29 - Ryan Habbyshaw,Lauren McCarthy  ---> Chris
+Dec 6 - Ryan Habbyshaw,Lauren McCarthy  ---> Chris
+		Paul Prudence, Moment Factory ---> David
 
-Dec 1 - Lia, Santiago Ortiz (Moebio.com) ---> Joanna
 
-Dec 1 - Michael Hansmeyer, Waltz Binarie ---> Joyce
+
+
 
 
 Extra Credit Possibilities:  Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road ...

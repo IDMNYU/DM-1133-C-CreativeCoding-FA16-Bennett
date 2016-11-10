@@ -160,7 +160,7 @@
 <tr>
 <td> 8 </td>
 
-	<td valign="top"><a href="week_8_detail_Oct_25.md">Oct 25<br><strong>	<strong> Pixel Manipulations </strong>
+	<td valign="top"><a href="week_8_detail_Oct_25.md">Oct 25<br>
 		
 		 </a> 
 		
@@ -171,8 +171,9 @@
 
 
 	
-	<td valign="top"><a href="week_8_detail_Oct_25.md">Oct 27<br><strong><
-		
+	<td valign="top"><a href="week_8_detail_Oct_25.md">Oct 27<br><strong>
+		Parsing test <br>
+		Interactive Narrative demo <br>
 		</strong>
 		
 		<li></li>
@@ -188,7 +189,7 @@
 
 	<td valign="top"><a href="week_9_detail_Nov_1.md">Nov 1<br><strong>	
 		
-		
+		Pixel Manipulations <br>
 	
 	</td>
 
@@ -207,14 +208,14 @@
 <tr>
 <td> 10 </td>
 
-	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 8<br><br> </a>
+	<td valign="top"><a href="week_10_detail_Nov_8.md"> </a>Nov 8<br><br> 
 		<a href = "RoundTable.md"><li> Round Table for Final Project </li>
 		
 	</td>
 
 
 	
-	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 10<br>
+	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 10<br> <strong>
 		<a href = "RoundTable.md"><li> Round Table for Final Project </li>
 		</strong>
 	</td>
@@ -226,26 +227,27 @@
 <tr>
 <td> 11 </td>
 
-	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 15<br><strong>	
+	<td valign="top"><a href="week_11_detail_Nov_15.md"></a>Nov 15<br>
 		<li> String Manipulations</li>
-		<li>API's  </li> </strong>
+		<li>API's  </li> 
 		
 		<br> 
-		<li> Show & Tell ---> EMILY  </li>
-		<li>Show + Tell ---> Yahya </li>
+		<li> Show & Tell ---> Yahya  </li>
+		<li>Show & Tell ---> Jarrett </li>
 	</td>
 
 
 	
-	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 17<br><strong>
+	<td valign="top"><a href="week_11_detail_Nov_15.md"></a>Nov 17<br>
 	
 		<li> API's</li>
 		<br> 
-		<li>Show & Tell ---> Alice </li>
-		<li>Show + Tell --->  Jarrett</li>
-		</strong>
+		<li>Show & Tell ---> Bonnie </li>
+		<li>Show & Tell --->  Ari</li>
+		<li>Show & Tell ---> Miranda </li>
+		
 	</td>
-	</a>
+	
 </tr>
 
 
@@ -253,13 +255,13 @@
 <td> 12 </td>
 
 	<td valign="top">Nov 22<br>
-	<strong>	Final Project working Prototype Due <br>
+	<strong>	Final Project working Prototype Due <br> </strong>
 		Vectors + Forces
 		<br> 
+		Physics Engines <br>
 		
-		</strong>
-		<li>Show & Tell ---> Bonnie </li>
-		<li>Show + Tell --->  Ari</li>
+		<li>Show & Tell ---> Amy</li>
+		<li>Show + Tell --->  Alice</li>
 	</td>
 
 
@@ -273,27 +275,20 @@
 <tr>	
 <td> 13 </td>
 	<td valign="top">Nov 29<br><strong>
-	Final Project Beta Due <br>
-	Physics Engines
+	Final Project Beta Due </strong> <br>
+	Sound 
 	<br> 
-		<li>Show & Tell ---> Chris</li>
-		<li> Show & Tell ---> Miranda </li>
-		</strong>
-		<li> </li>
-
+		<li> Show & Tell ---> Shane </li>
+		<li> Show & Tell ---> Naz </li>
+	
 		
-		</strong>
 	</td>
 
 
-	<td valign="top">Dec 1<br><strong>
-	Topics by Request <br>
+	<td valign="top">Dec 1<br>
+	Topics by Request  <br> 
 	<li>Show & Tell ---> Joanna <br> </li>
-	<li> Show & Tell ---> Joyce </li>
-		</strong>
-		<li> </li>
-		
-		</strong>
+	<li> Show & Tell ---> Joyce </li>	
 	</td>
 	
 </tr>
@@ -301,19 +296,18 @@
 
 <tr>	
 <td> 14 </td>
-	<td valign="top">Dec 6<br><strong>
-	Final Exam
+	<td valign="top">Dec 6<br>
+
 	Topics by Request
 		
-		<li>Show & Tell ---> Amy <br> </li>
+	<li>Show & Tell ---> Chris <br> </li>
 	<li> Show & Tell ---> David </li>
-		</strong>
+		
 	</td>
 
 
 	<td valign="top">Dec 8<br><strong>
 	Final Project Presentations
-		<li> </li>
 		
 		</strong>
 	</td>
@@ -322,7 +316,6 @@
 
 
 <tr>	
-
 
 
 <td> 15 </td>

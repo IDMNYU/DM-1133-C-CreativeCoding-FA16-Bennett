@@ -117,7 +117,7 @@
 
 	<td valign="top"><a href="week_6_detail_Oct_11.md">Oct 11<br><strong>
 		OOP: Inheritance + Polymorphism <br> </a>
-	Show + Tell ---> Johanna
+	Show + Tell
 		</strong>
 		
 	</td>
@@ -143,7 +143,7 @@
 		<li> Working with Text</li>
 		 </a>
 		 <a href = "Exercise_6.md"> Exercise 6 Due <br></a>
-		<li>Show + Tell --->  Jarrett</li>
+		
 				</strong>
 				
 		</td>
@@ -163,7 +163,7 @@
 	<td valign="top"><a href="week_8_detail_Oct_25.md">Oct 25<br><strong>	<strong> Pixel Manipulations </strong>
 		
 		 </a> 
-		<li>Show + Tell ---> Yahya </li>
+		
 		<a href = "Exercise_7.md"> Exercise 7 Due </a> <br>
 		</strong>
 		
@@ -171,8 +171,9 @@
 
 
 	
-	<td valign="top"><a href="week_8_detail_Oct_25.md">Oct 27<br><strong><li> String Manipulations</li>
+	<td valign="top"><a href="week_8_detail_Oct_25.md">Oct 27<br><strong><
 		
+		</strong>
 		
 		<li></li>
 		
@@ -186,19 +187,19 @@
 <td> 9 </td>
 
 	<td valign="top"><a href="week_9_detail_Nov_1.md">Nov 1<br><strong>	
-		<li>API's  </li></strong></a>
-		<strong> <a href = "Exercise_8.md"> Exercise 8 Due </a> </strong>
+		
+		
 	
 	</td>
 
 
 	
 	<td valign="top"><a href="week_9_detail_Nov_1.md">Nov 3<br><strong>
-		<a href = "RoundTable.md"><li> Round Table for Final Project </li></a>
-		<li></li>
+		</a>
+		<li> String Manipulations</li>
 		</strong>
 	</td>
-	</a>
+	
 </tr>
 
 
@@ -206,20 +207,15 @@
 <tr>
 <td> 10 </td>
 
-	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 8<br><strong>	Vectors
-		</strong> <br> </a>
-		Show & Tell ---> Bonnie <br>
-		Show & Tell ---> Ariana
-
+	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 8<br><br> </a>
+		<a href = "RoundTable.md"><li> Round Table for Final Project </li>
 		
 	</td>
 
 
 	
-	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 10<br><strong>
-		Vectors + forces <br>
-		Show & Tell ---> Miranda <br>
-		Show & Tell ---> Amy
+	<td valign="top"><a href="week_10_detail_Nov_8.md">Nov 10<br>
+		<a href = "RoundTable.md"><li> Round Table for Final Project </li>
 		</strong>
 	</td>
 	</a>
@@ -230,20 +226,23 @@
 <tr>
 <td> 11 </td>
 
-	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 15<br><strong>	 Particle Systems
+	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 15<br><strong>	
+		<li> String Manipulations</li>
+		<li>API's  </li> </strong>
 		
-		</a>
 		<br> 
-		Show & Tell ---> Yixi</strong>
+		<li> Show & Tell ---> EMILY  </li>
+		<li>Show + Tell ---> Yahya </li>
 	</td>
 
 
 	
-	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 17<br><strong> <a href = "Exercise_9.md"> Exercise 9 Due </a> <br>
-	Topics by Request </a>
-		<li> </li>
+	<td valign="top"><a href="week_11_detail_Nov_15.md">Nov 17<br><strong>
+	
+		<li> API's</li>
 		<br> 
-		Show & Tell ---> Alice
+		<li>Show & Tell ---> Alice </li>
+		<li>Show + Tell --->  Jarrett</li>
 		</strong>
 	</td>
 	</a>
@@ -255,12 +254,12 @@
 
 	<td valign="top">Nov 22<br>
 	<strong>	Final Project working Prototype Due <br>
-		Topics by Request
+		Vectors + Forces
 		<br> 
-		Show & Tell ---> Naz <br>
-		Show & Tell ---> David
-		</strong>
 		
+		</strong>
+		<li>Show & Tell ---> Bonnie </li>
+		<li>Show + Tell --->  Ari</li>
 	</td>
 
 
@@ -275,9 +274,10 @@
 <td> 13 </td>
 	<td valign="top">Nov 29<br><strong>
 	Final Project Beta Due <br>
-	Topics by Request
+	Physics Engines
 	<br> 
-		Show & Tell ---> Chris
+		<li>Show & Tell ---> Chris</li>
+		<li> Show & Tell ---> Miranda </li>
 		</strong>
 		<li> </li>
 
@@ -288,8 +288,8 @@
 
 	<td valign="top">Dec 1<br><strong>
 	Topics by Request <br>
-	Show & Tell ---> Joanna <br>
-	Show & Tell ---> Joyce
+	<li>Show & Tell ---> Joanna <br> </li>
+	<li> Show & Tell ---> Joyce </li>
 		</strong>
 		<li> </li>
 		
@@ -304,8 +304,9 @@
 	<td valign="top">Dec 6<br><strong>
 	Final Exam
 	Topics by Request
-		<li> </li>
 		
+		<li>Show & Tell ---> Amy <br> </li>
+	<li> Show & Tell ---> David </li>
 		</strong>
 	</td>
 

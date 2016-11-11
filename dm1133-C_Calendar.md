@@ -208,7 +208,7 @@
 <tr>
 <td> 10 </td>
 
-	<td valign="top"><a href="week_10_detail_Nov_8.md"> </a>Nov 8<br><br> 
+	<td valign="top"><a href="week_10_detail_Nov_8.md"> </a>Nov 8<br> 
 		<a href = "RoundTable.md"><li> Round Table for Final Project </li>
 		
 	</td>
@@ -230,8 +230,6 @@
 	<td valign="top"><a href="week_11_detail_Nov_15.md"></a>Nov 15<br>
 		<li> String Manipulations</li>
 		<li>API's  </li> 
-		
-		<br> 
 		<li> Show & Tell ---> Yahya  </li>
 		
 	</td>
@@ -241,7 +239,6 @@
 	<td valign="top"><a href="week_11_detail_Nov_15.md"></a>Nov 17<br>
 	
 		<li> API's</li>
-		<br> 
 		<li>Show & Tell ---> Jarrett </li>
 		<li>Show & Tell ---> Bonnie </li>
 	

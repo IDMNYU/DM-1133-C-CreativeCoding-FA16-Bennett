@@ -233,7 +233,7 @@
 		
 		<br> 
 		<li> Show & Tell ---> Yahya  </li>
-		<li>Show & Tell ---> Jarrett </li>
+		
 	</td>
 
 
@@ -242,9 +242,10 @@
 	
 		<li> API's</li>
 		<br> 
+		<li>Show & Tell ---> Jarrett </li>
 		<li>Show & Tell ---> Bonnie </li>
-		<li>Show & Tell --->  Ari</li>
-		<li>Show & Tell ---> Miranda </li>
+	
+		
 		
 	</td>
 	
@@ -255,13 +256,14 @@
 <td> 12 </td>
 
 	<td valign="top">Nov 22<br>
-	<strong>	Final Project working Prototype Due <br> </strong>
+	<strong>	Final Project: Working Prototype Due <br> </strong>
 		Vectors + Forces
 		<br> 
-		Physics Engines <br>
 		
+
+		<li>Show & Tell --->  Ari</li>
 		<li>Show & Tell ---> Amy</li>
-		<li>Show + Tell --->  Alice</li>
+		
 	</td>
 
 
@@ -274,39 +276,56 @@
 
 <tr>	
 <td> 13 </td>
-	<td valign="top">Nov 29<br><strong>
-	Final Project Beta Due </strong> <br>
-	Sound 
+	<td valign="top">Nov 29<br>
+	3rd Party Libraries: Sound, Animation, Physics
 	<br> 
-		<li> Show & Tell ---> Shane </li>
-		<li> Show & Tell ---> Naz </li>
-	
-		
+		<li>Show + Tell --->  Alice</li>
+		<li> Show & Tell ---> Shane </li>		
 	</td>
 
 
 	<td valign="top">Dec 1<br>
-	Topics by Request  <br> 
+	<strong>
+	Final Project Beta Due </strong> <br>
+	3rd Party Libraries: Sound, Animation, Physics <br>
+
+	<li> Show & Tell ---> Naz </li>
 	<li>Show & Tell ---> Joanna <br> </li>
-	<li> Show & Tell ---> Joyce </li>	
-	</td>
-	
+	</td>	
 </tr>
 
 
 <tr>	
 <td> 14 </td>
 	<td valign="top">Dec 6<br>
-
-	Topics by Request
-		
-	<li>Show & Tell ---> Chris <br> </li>
+	Topics by Request <br>
+	<li> Show & Tell ---> Joyce </li>
 	<li> Show & Tell ---> David </li>
+	
 		
 	</td>
 
 
-	<td valign="top">Dec 8<br><strong>
+	<td valign="top">Dec 8<br>
+	Topics by Request <br>
+	<li>Show & Tell ---> Miranda </li>	
+	<li>Show & Tell ---> Chris </li>
+	</td>
+	
+</tr>
+
+<tr>
+<td> 14 </td>
+	<td valign="top">Dec 13<br>
+	<strong>
+	Final Project Presentations	
+		</strong>
+	
+		
+	</td>
+
+
+	<td valign="top">Dec 15<br><strong>
 	Final Project Presentations
 		
 		</strong>
@@ -330,8 +349,7 @@
 
 	<td valign="top">Dec 22<br><strong>
 		<li> </li>
-		Not meeting on campus <br>
-		Turn in Materials
+		Have a great holiday! <br>
 		</strong>
 	</td>
 	

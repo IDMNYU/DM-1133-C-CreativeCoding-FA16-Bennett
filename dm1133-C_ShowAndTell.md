@@ -66,12 +66,14 @@ Nov 22 - Eno Henze, Dedric Kiefer ---> Alice
 
 Nov 29 - Karolina Sobecka, Future Cities Lab ---> Naz
        Robert Hodgin - Flight404, Karsten Schmidt ---> Shane
+       Ryan Habbyshaw,Lauren McCarthy  ---> Chris
 		
 Dec 1- Lia, Santiago Ortiz (Moebio.com) ---> Joanna
       Michael Hansmeyer, Waltz Binarie ---> Joyce
+      Paul Prudence, Moment Factory ---> David
 		
-Dec 6 - Ryan Habbyshaw,Lauren McCarthy  ---> Chris
-		Paul Prudence, Moment Factory ---> David
+
+		
 
 
 

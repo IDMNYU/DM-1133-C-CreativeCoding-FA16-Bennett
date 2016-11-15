@@ -28,8 +28,4 @@ function Bunny(x, y){
       }
     }
   }
-  
-  
-  
-  
 }

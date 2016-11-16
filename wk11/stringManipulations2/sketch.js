@@ -42,20 +42,13 @@ function setup() {
   var cleaner = me.replace(/Illustration/g, ''); // take the string and take out this work
   console.log(me);
   console.log(cleaner);
-  //var wds = "[Illustration]";
-  //var superParsed = story.replace(wds, " ");
-  //var superParsed = story.replace(/Illustration/gi, " ");  // g means globally, i, means literally as it's written
+  
   var superParsed = cleaner.replace(/[\[\]]/gi, " "); // take out the []
   console.log(superParsed);
   parsedStory = splitTokens(superParsed, delimiters); // turns a string into an array based on delimiters
+                                                      // everytime a delimiter appears, a new indice will be made
+                                                      // ie, every indice point is going to be a word
   console.log(parsedStory);
-
-  //parsedStory = splitTokens(story, delimiters); // turns a string into an array based on delimiters
-  //console.log(parsedStory);  // after removing the word Illustration and the [], we still have strings [Illustration] (we could just take the "i" out of the replace method above)
-
-  // check this out later
-  //var tidyArray = removeStuff("[Illustration]", parsedStory); //send that string of char that need to be removed to a function, as well as the array to parse
-  //console.log(tidyArray);
 
   t = searchText("Peter");
   //console.log(t);
@@ -76,18 +69,11 @@ function draw() {
   noLoop();
 }
 
-function removeStuff(strng, storyList) {
-  for (counter = (storyList.length - 1); counter > 0; counter--) {
-    if (storyList[counter] == strng) {
-      storyList.splice(counter, 1);
-    }
-  }
-  return parsedStory;
-}
 
 function searchText(word) {
 
   var total = 0;
+  // take the array that of words, and compare each to the one we are looking for
   for (counter = 0; counter < parsedStory.length; counter++) {
     var t = parsedStory[counter];
     if (t == word) {
@@ -96,11 +82,4 @@ function searchText(word) {
   }
   //console.log(total);
   return total;
-  /*
-  var word = "once"
-  //for(var i = 0; i < parsedStory.length; i++){
-    countArray = parsedStory.match(/word/gi);
-  //}
-  */
-
 }

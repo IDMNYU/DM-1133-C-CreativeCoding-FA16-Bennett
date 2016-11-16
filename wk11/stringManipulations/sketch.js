@@ -38,7 +38,10 @@ function setup() {
   console.log(cleaned);
   superParsed = cleaned.replace(/[\[\]]/gi, " ");
   console.log(superParsed);
-  parsedArray = splitTokens(superParsed, delimiters); //// turns a string into an array based on delimiters
+  parsedArray = splitTokens(superParsed, delimiters); // turns a string into an array based on delimiters
+                                                      // when a delimiter is spotted, a new indice will begin
+                                                      // ie, we will be splitting the story into words
+                                                      // each word will be an array indice
   //console.log(parsedArray);
 
   t = searchText("Peter");
@@ -61,8 +64,10 @@ function draw() {
 function searchText(word) {
 
   var total = 0;
-  for (counter = 0; counter < superParsed.length; counter++) {
-    var t_loc = superParsed[counter];
+  // now we can parse that array of words that we made above, and
+  // see how they compare to the word we are looking for
+  for (counter = 0; counter < parsedArray.length; counter++) {
+    var t_loc = parsedArray[counter];
     if (t_loc == word) {
       total++;
     }

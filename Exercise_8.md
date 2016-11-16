@@ -1,7 +1,14 @@
-Exercise 8: String Manipulations + API's
+Exercise 8: String Manipulations 
+With a partner, do the following:
+1. take a story from [GutenBerg](https://www.gutenberg.orgebookssearch/?sort_order=downloads)
+2. bring the text into P5 as a string
+3. Use at least 3 expressions to parse the string of text.
+use [the RegExr site](http://regexr.com/) as guide to formulate your expressions
 
-Take a data set of some sort (text, API, JSON, XML) as an input. Your code should parse the input, looking for key/value pairs or some other rhythm inherent in the data (ex, spacing between words, commas, periods, etc).
+For homework finish the above individually to also include:
 
-The output should be evident in some way, whether this is visually through text, or some other way of visualizing the information.
+4. visualize your data in some interesting way.
+extra points for movement, procedural aspects or interactivity 
 
-Due Nov 1
+Due Nov 18 midnight
+

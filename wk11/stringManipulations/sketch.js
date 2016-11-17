@@ -42,7 +42,7 @@ function setup() {
                                                       // when a delimiter is spotted, a new indice will begin
                                                       // ie, we will be splitting the story into words
                                                       // each word will be an array indice
-  //console.log(parsedArray);
+  console.log(parsedArray);
 
   t = searchText("Peter");
   console.log(t);

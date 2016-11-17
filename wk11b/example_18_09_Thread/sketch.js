@@ -21,6 +21,7 @@ function setup() {
 function draw() {
   background(255);
   // Every 1 second, make a new request
+ 
   if (timer.isFinished()) {
     // In case you want to see the difference with stuttering
     loadJSON('http://time.jsontest.com/', gotData);
@@ -28,6 +29,7 @@ function draw() {
     println("Making request!");
     timer.start();
   }
+ 
 
   fill(0);
   noStroke();

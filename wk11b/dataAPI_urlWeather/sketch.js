@@ -5,8 +5,8 @@ var current;
 
 function preload() {
   //weatherData = loadJSON("data/test.json");
-  var url = 'http://api.openweathermap.org/data/2.5/weather?zip=11201,us&APPID=3e70b996f07e3fab50b02acbcd0576bc';
-  //var url = 'http://api.openweathermap.org/data/2.5/weather?units=imperial&zip=11201,us&APPID=3e70b996f07e3fab50b02acbcd0576bc';
+  //var url = 'http://api.openweathermap.org/data/2.5/weather?zip=11201,us&APPID=3e70b996f07e3fab50b02acbcd0576bc';
+  var url = 'http://api.openweathermap.org/data/2.5/weather?units=imperial&zip=11201,us&APPID=3e70b996f07e3fab50b02acbcd0576bc';
   weatherData = loadJSON(url);
   font = loadFont('data/font.otf');
   
@@ -19,6 +19,7 @@ function setup() {
   current = getCurrentConditions(weatherData);
   console.log(temp);
 }
+
 
 function draw() {
   noStroke();
@@ -34,12 +35,13 @@ function draw() {
   
 }
 
+
 function getTemp(data) {
  
   var main = data.main;
   var t = main.temp;
-  return t;
-  //return data.main.temp;
+  //return t;
+  return data.main.temp;
 
 
 }

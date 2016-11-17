@@ -7,7 +7,7 @@ function preload() {
 }
 
 function setup() {
-  //film = loadJSON('film.json', getInfo());
+  //film = loadJSON('film.json', getInfo());  // this is a callback function
   createCanvas(480, 120);
   for (var i = 0; i < filmData.length; i++) {
     var o = filmData[i];

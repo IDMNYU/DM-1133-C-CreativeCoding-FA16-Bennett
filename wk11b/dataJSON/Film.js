@@ -5,7 +5,7 @@ function Film(f) {
   this.rating = f.rating;
   
   this.display = function(x, y) {
-    var ratingGray = map(this.rating, 6.5, 8.1, 102, 255);
+    var ratingGray = map(this.rating, 6.5, 9.1, 102, 255);
     push();
     translate(x, y);
     rotate(-QUARTER_PI);

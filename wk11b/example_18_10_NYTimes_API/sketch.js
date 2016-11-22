@@ -10,7 +10,7 @@ var json;
 // The URL for the JSON data
 var apiKey = "fb2f82dab405489bbacac39a5898b929";
 var url = "http://api.nytimes.com/svc/search/v2/articlesearch.json";
-var query = "?q=processing&sort=newest";
+var query = "?q=pumpkins&sort=newest";
 
 function preload() {
   json = loadJSON(url+query+"&api-key="+apiKey);

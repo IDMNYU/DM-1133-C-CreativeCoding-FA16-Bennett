@@ -40,8 +40,8 @@ function getTemp(data) {
  
   var main = data.main;
   var t = main.temp;
-  //return t;
-  return data.main.temp;
+  return t;
+  //return data.main.temp;
 
 
 }

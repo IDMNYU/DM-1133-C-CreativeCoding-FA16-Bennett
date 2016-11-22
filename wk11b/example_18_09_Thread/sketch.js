@@ -14,7 +14,7 @@ function setup() {
   createCanvas(200, 200);
   // Execute this method asynchronously using a thread
   loadJSON('http://time.jsontest.com/', gotData);
-  timer = new Timer(1000);
+  timer = new Timer(5000);
   timer.start();
 }
 

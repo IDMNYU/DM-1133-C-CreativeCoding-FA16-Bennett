@@ -11,16 +11,16 @@ function setup() {
 function draw() {
   background(0);
 
-  for (var i = bars.length - 1; i >= 0; i--) {
+  for (var i = bars.length - 1; i >= 0; i--) {  //backwards for loop
     bars[i].show();
     bars[i].update();
 
-    if (bars[i].hits(bird)) {
+    if (bars[i].hits(bird)) { //detecting collision
       console.log("hit");
 
     }
 
-    if (bars[i].offscreen()) {
+    if (bars[i].offscreen()) {  // if we are off screen, cut it out of the array
       bars.splice(i, 1);
     }
   }

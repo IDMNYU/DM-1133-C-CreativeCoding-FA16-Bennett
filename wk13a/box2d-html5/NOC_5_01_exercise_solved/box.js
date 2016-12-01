@@ -11,6 +11,7 @@ function Box(x, y) {
    // Define a body
   var bd = new box2d.b2BodyDef();
   bd.type = box2d.b2BodyType.b2_dynamicBody;
+  // in Processing, a few steps inbetween to translate coordinates
   bd.position = scaleToWorld(x,y);
 
   // Define a fixture
@@ -25,26 +26,26 @@ function Box(x, y) {
   fd.restitution = 0.2;
 
   // Create the body
-  this.body = world.CreateBody(bd);
+  this.body = world.CreateBody(bd); // passing the body in to the world
   // Attach the fixture
-  this.body.CreateFixture(fd);
+  this.body.CreateFixture(fd);  // attach the fixture to the body
 
   // Drawing the box
   this.display = function() {
     // Get the body's position
-    var pos = scaleToPixels(this.body.GetPosition());
+    var pos = scaleToPixels(this.body.GetPosition());  // getting info from Box2D
     // Get its angle of rotation
     var a = this.body.GetAngleRadians();
 
     // Draw it!
     rectMode(CENTER);
     push();
-    translate(pos.x,pos.y);
-    rotate(a);
-    fill(127);
-    stroke(200);
-    strokeWeight(2);
-    rect(0, 0, this.w, this.h);
+      translate(pos.x,pos.y);
+      rotate(a);
+      fill(127);
+      stroke(200);
+      strokeWeight(2);
+      rect(0, 0, this.w, this.h);
     pop();
   };
 }

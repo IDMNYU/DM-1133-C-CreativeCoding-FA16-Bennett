@@ -22,13 +22,13 @@ Using Word or another text editor, reflect on the following:
 # Also do each of the following:
 
 ### Documentation of your final project: 
-- screen shots of application running
-- copy and pasted into Sublime and take a screen shots of code
-- concept paragraph answering the following: What is your piece about? What's the concept? Is it interactive, responsive or time based?, name of piece
-- Email me the above documents.
+• Take several screen shots of application running. If it's interactive take some photos of someone interacting with it.
+• copy and pasted into Sublime and take a screen shots of code
+• concept paragraph answering the following: What is your piece about? What's the concept? Is it interactive, responsive or time based?, name of piece
+• Email me the above documents.
 
-- Submit any missing exercises to get credit for them. Post them to github and email me that they are up.
+• Submit any missing exercises to get credit for them. Post them to github and email me that they are up.
 
-- Each repo is named after the assignment and with all of the work, code, documentation, support files, editions. Leave the other repository up there if you have multiple ones. Just name sure to make a new one if you currently have multiple repository for one assignment 
+• Each repo is named after the assignment and with all of the work, code, documentation, support files, editions. Leave the other repository up there if you have multiple ones. Just name sure to make a new one if you currently have multiple repository for one assignment 
 
-- All of the above must be submitted by Noon Monday.
+# All of the above must be submitted by Noon Monday.

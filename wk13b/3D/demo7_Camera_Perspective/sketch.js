@@ -3,6 +3,7 @@ function setup() {
 }
 
 function draw() {
+  // perspective(fov, aspect, near, far)
   perspective(map(mouseY, 0,height,0,45), width/height, 0, -1000);
   
   background(255);

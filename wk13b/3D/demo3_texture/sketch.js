@@ -3,7 +3,7 @@ var theta = 0;
 
 function setup(){
   createCanvas(windowWidth, windowHeight, WEBGL);
-  img = loadImage("assets/DSC_7651.JPG");
+  img = loadImage("assets/cat.jpg");
 }
 
 function draw(){

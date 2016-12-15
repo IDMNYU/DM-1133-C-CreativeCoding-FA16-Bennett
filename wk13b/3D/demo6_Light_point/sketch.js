@@ -19,7 +19,7 @@ function draw(){
   //   |            |
   //   |            |
   // -1,-1---------1,-1
-  //(r, g, b, alpha, x, y, z);
+  //(r, g, b, opacity, x, y, z);
   pointLight(250, 250, 250, locX, locY, 0);
   ambientMaterial(250);
   sphere(50);

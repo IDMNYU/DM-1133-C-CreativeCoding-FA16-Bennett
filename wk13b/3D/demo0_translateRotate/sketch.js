@@ -10,7 +10,7 @@ function draw() {
   if(mouseIsPressed){
     ambientLight(150);
   }
-    ambientLight(0);
+    //ambientLight(0);
    //directionalLight(255, 0, 0, 0, 10, 30, 0);
   
   sphere(80);

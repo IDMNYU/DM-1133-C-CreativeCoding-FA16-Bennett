@@ -339,7 +339,7 @@
 		<li> </li>
 		Not meeting on campus<br>
 		Turn in Materials <br>
-		<a href = "">Final Self Assessment DUE  </a>
+		<a href = "Final_Deliverables.md">Final Self Assessment DUE  </a>
 		</strong>
 	</td>
 
